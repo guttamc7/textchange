@@ -1,0 +1,1713 @@
+<courses>
+<course number="FNR	10300" title="Intro Envir Conservatn"/>
+<course number="FNR	19800" title="Intro Topic For and Nat Resource"/>
+<course number="FNR	20100" title="Marine Biology "/>
+<course number="FNR	22500" title="Dendrology"/>
+<course number="FNR	23000" title="World's ForestandSociety "/>
+<course number="FNR	24000" title="Wildlife In America "/>
+<course number="FNR	24100" title="EcolandSys FishandMammals "/>
+<course number="FNR	24200" title="Lab EcolandSys FishandMamm "/>
+<course number="FNR	33100" title="Forest Ecosystems"/>
+<course number="FNR	33900" title="Princ Of Silviculture"/>
+<course number="FNR	34100" title="Wildlife Habitat Mgmt"/>
+<course number="FNR	35700" title="Fund Remote Sensing"/>
+<course number="FNR	35900" title="Spatial Ecology and GIS"/>
+<course number="FNR	40600" title="Nat Res and Envir Econ"/>
+<course number="FNR	40900" title="Timber Management"/>
+<course number="FNR	41800" title="Prop Wood Related Mfg"/>
+<course number="FNR	42500" title="Secondry Wood Prod Mfg"/>
+<course number="FNR	43400" title="Tree Physiology"/>
+<course number="FNR	44100" title="Forest Entomology"/>
+<course number="FNR	44400" title="Arboriculture Practice"/>
+<course number="FNR	44700" title="Vertebrate Pop Dynamic"/>
+<course number="FNR	45400" title="Fish Sci Management"/>
+<course number="FNR	47000" title="Fndmentals Of Planning"/>
+<course number="FNR	48400" title="Design For CNC Mfg"/>
+<course number="FNR	49800" title="Special Assignments"/>
+<course number="FNR	52700" title="Ecotoxicology"/>
+<course number="FNR	53500" title="Forest Regeneration"/>
+<course number="FNR	54300" title="Conservatn Biology I"/>
+<course number="FNR	55100" title="Advanced Ichthyology"/>
+<course number="FNR	55800" title="Digtl Remot Sens and GIS"/>
+<course number="FNR	57200" title="Com Involv Nat Res Mgt"/>
+<course number="FNR	57300" title="Community Involvemt Practicum"/>
+<course number="FNR	58000" title="Research Natr Resource Soc Sci"/>
+<course number="FNR	59800" title="Tpc Prob ForandNat Rsrc"/>
+<course number="FNR	67900" title="Forest Resources Sem"/>
+<course number="FNR	69100" title="Tpcl Prblms Forest"/>
+<course number="FNR	69800" title="Research MS Thesis"/>
+<course number="FNR	69900" title="Research PhD Thesis"/>
+<course number="FR 10100" title="French Level I"/>
+<course number="FR 10200" title="French Level II"/>
+<course number="FR 11200" title="Elem Fr Conv I"/>
+<course number="FR 20100" title="French Level III"/>
+<course number="FR 20200" title="French Level IV"/>
+<course number="FR 21100" title="Elem Fr Conv II"/>
+<course number="FR 21200" title="Elem Fr Conv III"/>
+<course number="FR 22400" title="Fr Lev IV Business Fr"/>
+<course number="FR 24100" title="Intro Study French Lit"/>
+<course number="FR 30100" title="French Level V"/>
+<course number="FR 30200" title="French Level VI"/>
+<course number="FR 33000" title="French Cinema"/>
+<course number="FR 38000" title="Cultr And Civ Topics"/>
+<course number="FR 40100" title="French Level VII"/>
+<course number="FR 40200" title="French Level VIII"/>
+<course number="FR 51900" title="Tchg College French"/>
+<course number="FR 56100" title="Struc French I"/>
+<course number="FR 58100" title="French Culture"/>
+<course number="FR 59000" title="Directed Read French"/>
+<course number="FR 59600" title="Spec Top French Ling"/>
+<course number="FR 60100" title="Fst Crs Estb Read Know"/>
+<course number="FR 63000" title="Bibliog Lit Criticism"/>
+<course number="FR 65900" title="Sem French Lit"/>
+<course number="FR 67900" title="Seminar French Ling"/>
+<course number="FR 69800" title="Research MA Thesis"/>
+<course number="FR 69900" title="Res PhD Thesis"/>
+<course number="FS 16100" title="Science Of Food"/>
+<course number="FS 27500" title="Honors Course-Lower Division"/>
+<course number="FS 29100" title="Special Assignments"/>
+<course number="FS 29800" title="Sophomore Seminar"/>
+<course number="FS 33000" title="Culinary Arts Food Sci"/>
+<course number="FS 34100" title="Food Processing I"/>
+<course number="FS 34200" title="Food Processing I Lab"/>
+<course number="FS 36100" title="Food Plant Sanitation"/>
+<course number="FS 36200" title="Food Microbiology"/>
+<course number="FS 36300" title="Food Microbiology Lab"/>
+<course number="FS 39000" title="Food Sci Coop Program"/>
+<course number="FS 44200" title="Food Processing II"/>
+<course number="FS 44400" title="Stat Process Control"/>
+<course number="FS 44700" title="Food Processing II Lab"/>
+<course number="FS 47000" title="Wine Appreciation"/>
+<course number="FS 47500" title="Honors Course-Upper Division"/>
+<course number="FS 48200" title="FS Sc Senior Seminar"/>
+<course number="FS 49100" title="Spec Assignmt Food Sci"/>
+<course number="FS 49900" title="Thesis Research"/>
+<course number="FS 50600" title="Com Grape Wine Prod"/>
+<course number="FS 55001" title="Food Chemistry"/>
+<course number="FS 55101" title="Food Analysis"/>
+<course number="FS 55201" title="Nutritional Sciences"/>
+<course number="FS 55500" title="Case Study"/>
+<course number="FS 59000" title="Special Problems"/>
+<course number="FS 59100" title="Special Topics"/>
+<course number="FS 60900" title="Food Lipids"/>
+<course number="FS 63000" title="Carbohydrates"/>
+<course number="FS 63200" title="Lab X-Ray Fiber Diffr"/>
+<course number="FS 66000" title="Intest Microbiol and Immunology"/>
+<course number="FS 68400" title="Food Science Seminar"/>
+<course number="FS 69000" title="Spec Topc Food Science"/>
+<course number="FS 69700" title="Supervised Teach Fdsci"/>
+<course number="FS 69800" title="Research MS Thesis"/>
+<course number="FS 69900" title="Research PhD Thesis"/>
+<course number="FVS	26100" title="Technical Video Prod I"/>
+<course number="FVS	33200" title="Technical Video Prod II"/>
+<course number="FVS	33700" title="Editing I"/>
+<course number="FVS	45000" title="Intern In Film/Video"/>
+<course number="FVS	49000" title="Direct Reading In FVS"/>
+<course number="FVS	49100" title="Special Topics In FVS"/>
+<course number="GEP	10000" title="Global Design Team I"/>
+<course number="GEP	20000" title="Global Design Team II"/>
+<course number="GEP	30000" title="Global Design Team III"/>
+<course number="GEP	40000" title="Global Design Team IV"/>
+<course number="GER	10100" title="German Level I"/>
+<course number="GER	10200" title="German Level II"/>
+<course number="GER	11200" title="Elem Ger Conv I"/>
+<course number="GER	20100" title="German Level III"/>
+<course number="GER	20200" title="German Level IV"/>
+<course number="GER	21100" title="Elem Ger Conv II"/>
+<course number="GER	21200" title="Elem Ger Conv III"/>
+<course number="GER	22400" title="German Level IV:Bus"/>
+<course number="GER	23000" title="German Lit Translat"/>
+<course number="GER	24100" title="Intro Study German Lit"/>
+<course number="GER	30100" title="German Level V"/>
+<course number="GER	30200" title="German Level VI"/>
+<course number="GER	34100" title="German Literature I"/>
+<course number="GER	40100" title="German Level VII"/>
+<course number="GER	42400" title="Business German"/>
+<course number="GER	51900" title="Tchg College German"/>
+<course number="GER	55400" title="German Drama Before Naturalism"/>
+<course number="GER	57500" title="Theories-Ger Lang Acq"/>
+<course number="GER	59000" title="Dir Read In German"/>
+<course number="GER	60100" title="Fst Crs Estb Read Know"/>
+<course number="GER	63000" title="Bibliog Lit Criticism"/>
+<course number="GER	67900" title="Seminar German Ling"/>
+<course number="GER	69800" title="Research MA Thesis"/>
+<course number="GER	69900" title="Res PhD Thesis"/>
+<course number="GRAD 59000" title="Special Topics"/>
+<course number="GRAD 60100" title="PULSe Scient Communic"/>
+<course number="GRAD 61200" title="Responsible Conduct Of Resrch"/>
+<course number="GRAD 68900" title="Special Seminars"/>
+<course number="GRAD 69300" title="Intrdscip Intern"/>
+<course number="GRAD 69900" title="Research PhD Thesis"/>
+<course number="GREK 10100" title="Greek Level I"/>
+<course number="GREK 20100" title="Greek Level III"/>
+<course number="GREK 59000" title="Dir Read Classcl Greek"/>
+<course number="GS 17500" title="Information Strategies"/>
+<course number="GS 19900" title="Strat Success First Yr"/>
+<course number="GS 29000" title="Study Skills Seminar"/>
+<course number="GS 30000" title="Lib Arts Influentials"/>
+<course number="GS 40500" title="Advancing Tomorrow's Leaders"/>
+<course number="GS 41500" title="Job Search Sen Sem"/>
+<course number="GS 49000" title="Directed Reading"/>
+<course number="HDFS 10000" title="Current Issues In HDFS"/>
+<course number="HDFS 20100" title="Intro Family Processes"/>
+<course number="HDFS 21000" title="Intro Human Devlpment"/>
+<course number="HDFS 21200" title="Child Dev Pract YAFS"/>
+<course number="HDFS 25500" title="Intro Couple and Fam Rel"/>
+<course number="HDFS 28000" title="Divrsty Individual and Fam Life"/>
+<course number="HDFS 29700" title="Intro To Honors Research"/>
+<course number="HDFS 31100" title="Child Development"/>
+<course number="HDFS 31200" title="Adult Development"/>
+<course number="HDFS 32500" title="Hlth Care Child and Fam"/>
+<course number="HDFS 33000" title="Sexuality And Family Life"/>
+<course number="HDFS 33100" title="Skill Help Professnals"/>
+<course number="HDFS 34100" title="Working With Parents"/>
+<course number="HDFS 34300" title="Assessment And Case Mangement"/>
+<course number="HDFS 34600" title="Rsrch Design and Prog Evaluation"/>
+<course number="HDFS 34800" title="Admin Non-Profit Org"/>
+<course number="HDFS 39000" title="Special Topics HDFS"/>
+<course number="HDFS 39700" title="Directed Honors Research"/>
+<course number="HDFS 40500" title="Lang LitandSoc Stds Pre/Prim Grd"/>
+<course number="HDFS 40800" title="Curr App Atypical Dev"/>
+<course number="HDFS 42000" title="Dev Inf and Tod Curric"/>
+<course number="HDFS 45000" title="Spv Tch Incl Prg Y Chd"/>
+<course number="HDFS 45400" title="Career Asmt and Prof Dev"/>
+<course number="HDFS 45500" title="Field Expr In HDFS"/>
+<course number="HDFS 49100" title="Mentored Research In HDFS"/>
+<course number="HDFS 49700" title="Honors Research Project"/>
+<course number="HDFS 59000" title="Special Problems"/>
+<course number="HDFS 60100" title="Adv Child Development"/>
+<course number="HDFS 61300" title="Stat App Dev Res"/>
+<course number="HDFS 61700" title="Adv Mthd Chld Fam Stdy"/>
+<course number="HDFS 62700" title="Multilevel Mdl Dev and Fam Resch"/>
+<course number="HDFS 68800" title="Intern Mar and Fam Ther"/>
+<course number="HDFS 69000" title="Directed Res In HDFS"/>
+<course number="HDFS 69700" title="Colloquium"/>
+<course number="HDFS 69800" title="Research MS Thesis"/>
+<course number="HDFS 69900" title="Research PhD Thesis"/>
+<course number="HEBR 10100" title="Modern Hebrew I"/>
+<course number="HEBR 12100" title="Biblical Hebrew I"/>
+<course number="HEBR 20100" title="Modern Hebrew III"/>
+<course number="HEBR 22100" title="Biblical Hebrew III"/>
+<course number="HHS	90000" title="HHS Makers Welcome Reception"/>
+<course number="HIST 10300" title="Intro To Medieval Wrld"/>
+<course number="HIST 10400" title="Intro To Modern World"/>
+<course number="HIST 10500" title="Global History"/>
+<course number="HIST 15100" title="Amer Hist To 1877"/>
+<course number="HIST 15200" title="U S Since 1877"/>
+<course number="HIST 19500" title="Historian's Craft:Res and Film"/>
+<course number="HIST 20100" title="Special Topics In History"/>
+<course number="HIST 21000" title="The Making Of Modern Africa"/>
+<course number="HIST 24300" title="South Asia Hist and Civ"/>
+<course number="HIST 24600" title="Mod Mid East andN Africa"/>
+<course number="HIST 27100" title="Latin American To 1824"/>
+<course number="HIST 30000" title="Eve Of Destruction"/>
+<course number="HIST 30200" title="Historical Topics"/>
+<course number="HIST 32400" title="Modern France"/>
+<course number="HIST 33000" title="Brit Empire 1783-1960"/>
+<course number="HIST 33300" title="Sci Tech Wstrn Civil I"/>
+<course number="HIST 34200" title="Africa And The West"/>
+<course number="HIST 34901" title="The First World War"/>
+<course number="HIST 35000" title="Sci and Tech In 20th Cnt"/>
+<course number="HIST 35900" title="Gender In E Asian Hist"/>
+<course number="HIST 37100" title="Society and Rock and Roll"/>
+<course number="HIST 37700" title="Hist and Cult Native Am"/>
+<course number="HIST 38200" title="Amer Constitut Hist"/>
+<course number="HIST 39100" title="Russian Pop Entertain"/>
+<course number="HIST 39500" title="Jr Research Seminar"/>
+<course number="HIST 39600" title="Afro-American To 1865"/>
+<course number="HIST 40400" title="Kings and Phil 1618-1789"/>
+<course number="HIST 40500" title="French Rev and Napoleon"/>
+<course number="HIST 42100" title="Honor Historical Meth"/>
+<course number="HIST 45500" title="Modern Iraq"/>
+<course number="HIST 46500" title="Civil War Reconstruct"/>
+<course number="HIST 46800" title="Recent American Hist"/>
+<course number="HIST 46900" title="Blck Civil Rights Move"/>
+<course number="HIST 49200" title="Sem Historical Tpcs"/>
+<course number="HIST 49500" title="Res Sem Hist Topics"/>
+<course number="HIST 49900" title="History Internship"/>
+<course number="HIST 51400" title="Hist West Thought I"/>
+<course number="HIST 59000" title="Dir Reading In Hist"/>
+<course number="HIST 60100" title="Read Sem Europ Hist"/>
+<course number="HIST 60200" title="Seminar European Hist"/>
+<course number="HIST 61000" title="History: Theory and Methods"/>
+<course number="HIST 65100" title="Read Sem Am Hist"/>
+<course number="HIST 69800" title="Research MA Thesis"/>
+<course number="HIST 69900" title="Research PhD Thesis"/>
+<course number="HK 10100" title="Clin Prac At Orient"/>
+<course number="HK 10300" title="Crtve Rhythms and Dance"/>
+<course number="HK 10500" title="Dev and Analysis Invasion Games"/>
+<course number="HK 10700" title="Dev and Anly Target/Field Games"/>
+<course number="HK 11101" title="Practical Apps H/F Concepts I"/>
+<course number="HK 11800" title="Analysis Of Sport Performance"/>
+<course number="HK 13500" title="Intro Health and Kines"/>
+<course number="HK 20000" title="Healthy Lifestyles"/>
+<course number="HK 20100" title="Clin Prac At Assist"/>
+<course number="HK 20800" title="Prev and Treatmt Ath Inj"/>
+<course number="HK 20900" title="Elem School Pe"/>
+<course number="HK 21100" title="Clin App Of Health/Fitness I"/>
+<course number="HK 21500" title="Basic Public Health Studies"/>
+<course number="HK 22500" title="Sexuality And Health"/>
+<course number="HK 22600" title="Contemp Women's Health"/>
+<course number="HK 23100" title="Substance Abuse and Hlth"/>
+<course number="HK 23300" title="Stress and Human Health"/>
+<course number="HK 25000" title="Clinical Apps Of Sport I"/>
+<course number="HK 25300" title="Princ Motor Developmnt"/>
+<course number="HK 25800" title="Found Motor Skill Lrng"/>
+<course number="HK 26100" title="Appl Antmy Kinesiology"/>
+<course number="HK 26300" title="Biomech Found Mot Skls"/>
+<course number="HK 26600" title="Intro To Hlth/Fitness Program"/>
+<course number="HK 26900" title="Career Hlth/Fit Fields"/>
+<course number="HK 30100" title="Clin Prac At Associate"/>
+<course number="HK 30200" title="App Clin Anatomy"/>
+<course number="HK 30300" title="Athl Train Modalities"/>
+<course number="HK 30500" title="Injury Assessment I"/>
+<course number="HK 31100" title="Clin App Of Health/Fitness II"/>
+<course number="HK 32000" title="Health Educ Elem Sch"/>
+<course number="HK 32200" title="Phys Ed Elem School"/>
+<course number="HK 32600" title="Found Of Adapted PE"/>
+<course number="HK 32900" title="Curriculum Phys Ed"/>
+<course number="HK 34600" title="Field Exper In Coach"/>
+<course number="HK 35000" title="Clinical App Of Sport II"/>
+<course number="HK 36500" title="Princ Comm Hlth Promo"/>
+<course number="HK 36800" title="Exercise Physiology I"/>
+<course number="HK 37200" title="Sport Exercise Psy I"/>
+<course number="HK 37600" title="History Of Sport"/>
+<course number="HK 38000" title="Psych Of Teaching PE"/>
+<course number="HK 38500" title="Meth Hlth Promo and Ed"/>
+<course number="HK 40100" title="Clin Prac At Lead"/>
+<course number="HK 40500" title="Admin Ath Trg Prog"/>
+<course number="HK 41100" title="Clin App Of Health/Fitness III"/>
+<course number="HK 42100" title="Health Screening and Evaluation"/>
+<course number="HK 42200" title="Basic Exercise Program Design"/>
+<course number="HK 42400" title="Hlth Fit Prog Manage"/>
+<course number="HK 43500" title="Studnt Teachng Seminar"/>
+<course number="HK 44000" title="Human Diseases Disord"/>
+<course number="HK 44300" title="Neuroscience Movement"/>
+<course number="HK 44400" title="Motor Function In Older Adults"/>
+<course number="HK 44500" title="Principle Epidemiology"/>
+<course number="HK 45000" title="Clinical App Of Sport III"/>
+<course number="HK 45300" title="Motor Coord and Develop"/>
+<course number="HK 46500" title="Research Methods"/>
+<course number="HK 46800" title="Adv Exercise Physio II"/>
+<course number="HK 46900" title="Ex/Test Presc Spec Pop"/>
+<course number="HK 49000" title="Special Topics In HK"/>
+<course number="HK 49200" title="Professional Work Exper IV"/>
+<course number="HK 49600" title="Ind Inqry Mvmt Spt Sci"/>
+<course number="HK 51000" title="Intro Quant Meth Public Health"/>
+<course number="HK 53900" title="Pedagogic Study In PE"/>
+<course number="HK 56700" title="Epi Public Health Practice"/>
+<course number="HK 56800" title="Adv Exercise Physiol"/>
+<course number="HK 58100" title="International Health"/>
+<course number="HK 59000" title="Special Topics In HK"/>
+<course number="HK 59200" title="Public Health Practicum"/>
+<course number="HK 60000" title="Individual Research"/>
+<course number="HK 60100" title="HK PhD Seminar"/>
+<course number="HK 62100" title="Seminar In Public Health"/>
+<course number="HK 66800" title="Smnr Exrcse Physiol"/>
+<course number="HK 67000" title="Adv Topics Motor Cntrl"/>
+<course number="HK 67600" title="Theor Fndn Hlth Behav"/>
+<course number="HK 69800" title="Research MS Thesis"/>
+<course number="HK 69900" title="Research PhD Thesis"/>
+<course number="HONR 19900" title="Intrdscp Honor\Spc Tpc"/>
+<course number="HONR 19901" title="The Sustainability Project I"/>
+<course number="HONR 19903" title="Interdisc Approach To Writing"/>
+<course number="HONR 29500" title="Honors Soph Ind Res"/>
+<course number="HONR 29900" title="Intrdscp Honor-Spc Tpc"/>
+<course number="HONR 39500" title="Honors Junior Ind Res"/>
+<course number="HONR 39900" title="Intrdscp Honor-Spc Tpc"/>
+<course number="HORT 10100" title="Fundmntls Horticulture"/>
+<course number="HORT 21700" title="Woody Landscape Plants"/>
+<course number="HORT 21800" title="Herbaceous Lndsc Plts"/>
+<course number="HORT 30100" title="Plant Physiology"/>
+<course number="HORT 30600" title="Hist Of Horticulture"/>
+<course number="HORT 31500" title="Landscape Design"/>
+<course number="HORT 31700" title="Landscpe Cntrct and Mgmt"/>
+<course number="HORT 36000" title="Flower Arr Indoor Pl"/>
+<course number="HORT 37000" title="Professnl Floral Dsgn"/>
+<course number="HORT 39000" title="Coop Program In Hort"/>
+<course number="HORT 40300" title="Tropical Horticulture"/>
+<course number="HORT 42000" title="Ornamental Plant Production"/>
+<course number="HORT 42500" title="Land Hort Capstone"/>
+<course number="HORT 43500" title="Mkt Mgmt Hort Business"/>
+<course number="HORT 49100" title="Special Assignments"/>
+<course number="HORT 49200" title="Hort Science Capstone"/>
+<course number="HORT 50600" title="Com Grape Wine Prod"/>
+<course number="HORT 59000" title="Spc Studies In Hort"/>
+<course number="HORT 60100" title="Plan and Present Plant Sci Rsrch"/>
+<course number="HORT 60200" title="Hort Research Seminar"/>
+<course number="HORT 60300" title="Grants and Grantsmanship"/>
+<course number="HORT 64000" title="Metabol Plant Physiol"/>
+<course number="HORT 69500" title="Horticulture Seminar"/>
+<course number="HORT 69800" title="Research MS Thesis"/>
+<course number="HORT 69900" title="Research PhD Thesis"/>
+<course number="HSCI 10100" title="Intro Health Sciences"/>
+<course number="HSCI 13100" title="Medical Terminology"/>
+<course number="HSCI 19501" title="HSCI Freshman Honors Sem"/>
+<course number="HSCI 20200" title="Essentials Of EHS, OHS, and RHS"/>
+<course number="HSCI 29000" title="Special Topics"/>
+<course number="HSCI 29601" title="HSCI Sophomore Honors Project"/>
+<course number="HSCI 31200" title="Radiation Science"/>
+<course number="HSCI 31300" title="Radiation Detection"/>
+<course number="HSCI 34500" title="Intro Occ Envir Health"/>
+<course number="HSCI 39000" title="Special Topics"/>
+<course number="HSCI 39601" title="HSCI Junior Honors Project"/>
+<course number="HSCI 44600" title="Applied Indust Hygiene"/>
+<course number="HSCI 45100" title="Clinical Biochemistry"/>
+<course number="HSCI 45200" title="Clinical Chemistry"/>
+<course number="HSCI 45300" title="Clinical Hematology"/>
+<course number="HSCI 45400" title="Clin Immunohematology"/>
+<course number="HSCI 45500" title="Clinical Microbiology"/>
+<course number="HSCI 45800" title="Clinical Serology"/>
+<course number="HSCI 46000" title="Clinical Urinalysis"/>
+<course number="HSCI 48500" title="Health Phys Intern"/>
+<course number="HSCI 49000" title="Special Topics"/>
+<course number="HSCI 52600" title="Prin HP and Dosimetry"/>
+<course number="HSCI 54700" title="Environ Epidemiology"/>
+<course number="HSCI 56000" title="Toxicology"/>
+<course number="HSCI 57400" title="Medical Health Physics"/>
+<course number="HSCI 58000" title="Occup Safety and Ergonomics"/>
+<course number="HSCI 59000" title="Special Topics"/>
+<course number="HSCI 69000" title="Special Topics"/>
+<course number="HSCI 69600" title="Seminr In Hlth Science"/>
+<course number="HSCI 69800" title="Research MS Thesis"/>
+<course number="HSCI 69900" title="Research PhD Thesis"/>
+<course number="HTM	10010" title="Intro Hosp and Tourism Industry"/>
+<course number="HTM	10100" title="Hosp and Tour Stdnt Sem"/>
+<course number="HTM	14100" title="Fin Acctg Service Ind"/>
+<course number="HTM	17300" title="Intro To Tourism Mgmt"/>
+<course number="HTM	18100" title="Lodging Management"/>
+<course number="HTM	19100" title="Sanitation And Health"/>
+<course number="HTM	21200" title="Org andMgt HospandTour Ind"/>
+<course number="HTM	23100" title="Hosp and Tour Marketing"/>
+<course number="HTM	24100" title="Mgr AcctandFncl Mgt Hosp"/>
+<course number="HTM	29100" title="Quant Food Prod and Serv"/>
+<course number="HTM	29101" title="Quant Food PrdandSrv Lab"/>
+<course number="HTM	29700" title="Intro To Honors Research"/>
+<course number="HTM	30000" title="Internshp Exper In Htm"/>
+<course number="HTM	30200" title="Hosp and Tour Ind Intern"/>
+<course number="HTM	31100" title="Procuremt Mgt Foodserv"/>
+<course number="HTM	31200" title="Human Res Mgt Serv Ind"/>
+<course number="HTM	31700" title="Bus Etiquette For Mgrs"/>
+<course number="HTM	32200" title="Hosptl Facilities Mgmt"/>
+<course number="HTM	33100" title="Hosp and Tour SalesandServ"/>
+<course number="HTM	34100" title="Cst Ctrl FoodservandLodg"/>
+<course number="HTM	38110" title="Lodging Management II"/>
+<course number="HTM	39000" title="Undergrad Spec Problem"/>
+<course number="HTM	39700" title="Directed Honors Research"/>
+<course number="HTM	39900" title="Special Topics In HTM"/>
+<course number="HTM	41100" title="Hospitality and Tour Law"/>
+<course number="HTM	49110" title="Wine Sommelier Certification"/>
+<course number="HTM	49111" title="Beverage Operation Mgmt"/>
+<course number="HTM	49112" title="Mgmt and Serv Beverage Alcohol"/>
+<course number="HTM	49200" title="Adv Food Service Mgmt"/>
+<course number="HTM	49700" title="Honors Research Project"/>
+<course number="HTM	49900" title="Feas Stdy and Bus Devlp"/>
+<course number="HTM	50200" title="MIS For The Hosp Indus"/>
+<course number="HTM	53100" title="Hosp and Tour Marktng II"/>
+<course number="HTM	58100" title="Adv Hotel Management"/>
+<course number="HTM	59000" title="Problms In Hosp and Tour"/>
+<course number="HTM	59100" title="Res Issues/Food Mgmt"/>
+<course number="HTM	60200" title="Resrch Tpcs and Meth Sem"/>
+<course number="HTM	61200" title="HTM Mgmt Challng Anly"/>
+<course number="HTM	69000" title="Hosp and Tour Resrch Prb"/>
+<course number="HTM	69800" title="Research MS Thesis"/>
+<course number="HTM	69900" title="Research PhD Thesis"/>
+<course number="IDE	29000" title="Prof Internship"/>
+<course number="IDE	29100" title="Industrial Practice I"/>
+<course number="IDE	29200" title="Industrial Practice II"/>
+<course number="IDE	39300" title="Industrial Practce III"/>
+<course number="IDE	39400" title="Industrial Practice IV"/>
+<course number="IDE	39500" title="Industrial Practice V"/>
+<course number="IDIS 49000" title="Dir Read Interdis Stdy"/>
+<course number="IDIS 59000" title="Dir Rdng Interdisc Std"/>
+<course number="IE 20000" title="Ind Engr Seminar"/>
+<course number="IE 23000" title="Prob and Stat In Engr I"/>
+<course number="IE 29199" title="Prof Practice Extensive I"/>
+<course number="IE 29299" title="Prof Practice Extensive II"/>
+<course number="IE 30000" title="Honors Program Seminar"/>
+<course number="IE 33000" title="Prob and Stat In Engr II"/>
+<course number="IE 33200" title="Comput In Indust Engr"/>
+<course number="IE 33500" title="Oper Research-Optimiz"/>
+<course number="IE 33600" title="Oper Res-Stoch Models"/>
+<course number="IE 34300" title="Engineering Economics"/>
+<course number="IE 37000" title="Mfg Processes I"/>
+<course number="IE 38199" title="Prof Practice Co-Op I"/>
+<course number="IE 38299" title="Prof Practice Co-Op II"/>
+<course number="IE 38300" title="Integrated Prod Sys I"/>
+<course number="IE 38399" title="Prof Practice Co-Op III"/>
+<course number="IE 38600" title="Work Anly And Design I"/>
+<course number="IE 39399" title="Prof Practice Extensive III"/>
+<course number="IE 39499" title="Prof Practice Extensive IV"/>
+<course number="IE 39599" title="Prof Practice Extensive V"/>
+<course number="IE 39699" title="Prof Practice Internship"/>
+<course number="IE 43100" title="Industrial Engr Design"/>
+<course number="IE 47000" title="Mfg Processes II"/>
+<course number="IE 47400" title="Industrial Control Sys"/>
+<course number="IE 48400" title="Integrated Prod Sys II"/>
+<course number="IE 48600" title="Work Anly and Design II"/>
+<course number="IE 49000" title="Special Topics In IE"/>
+<course number="IE 49500" title="Industrial Pract Semn"/>
+<course number="IE 49600" title="Professional Intern"/>
+<course number="IE 49900" title="Research In Indus Engr"/>
+<course number="IE 53000" title="Quality Control"/>
+<course number="IE 53200" title="Reliability"/>
+<course number="IE 53500" title="Linear Programming"/>
+<course number="IE 54500" title="Engr Economic Anly"/>
+<course number="IE 57000" title="Mfg Process Engr"/>
+<course number="IE 57700" title="Human Factors In Engr"/>
+<course number="IE 57900" title="Des Cont Prod Mfg Sys"/>
+<course number="IE 58000" title="Systems Simulation"/>
+<course number="IE 59000" title="Topics In Indust Engr"/>
+<course number="IE 64600" title="Advan Decision Theory"/>
+<course number="IE 65900" title="Human Aspects Comput"/>
+<course number="IE 69000" title="Adv Topics Indus Engr"/>
+<course number="IE 69600" title="Grad Prof Practice"/>
+<course number="IE 69700" title="Seminar"/>
+<course number="IE 69800" title="Research MS Thesis"/>
+<course number="IE 69900" title="Research PhD Thesis"/>
+<course number="IET 45100" title="Montry Anlys Ind Dcsns"/>
+<course number="IPPH 10000" title="Pharm Science Orient	"/>
+<course number="IPPH 45100" title="Industrial Practical Training"/>
+<course number="IPPH 49000" title="Special Topics"/>
+<course number="IPPH 52100" title="Drug Development"/>
+<course number="IPPH 56200" title="Pharmaceutical Process"/>
+<course number="IPPH 58000" title="Physical Chem Prin"/>
+<course number="IPPH 69600" title="Sem Indus and Phys Phar"/>
+<course number="IPPH 69900" title="Research PhD Thesis"/>
+<course number="IPPH 87500" title="Pharmacokinetics II"/>
+<course number="IT 10400" title="Industrial Organizatn"/>
+<course number="IT 19000" title="Topics In Indust Tech"/>
+<course number="IT 19100" title="Supervised Work Exper"/>
+<course number="IT 21400" title="Intro Lean Manufac"/>
+<course number="IT 22600" title="Biotechnology Lab I"/>
+<course number="IT 23000" title="Indus Supply Chain Mgt	"/>
+<course number="IT 29100" title="Industrial Practice I	"/>
+<course number="IT 29200" title="Industrial Practice II	"/>
+<course number="IT 33000" title="Indust SalesandSales Mgt	"/>
+<course number="IT 34200" title="Intro To Stat Quality	"/>
+<course number="IT 34500" title="Auto IdntandData Capture	"/>
+<course number="IT 35100" title="Adv Ind SaftyandHlth Mgt	"/>
+<course number="IT 38100" title="Total Productive Maint	"/>
+<course number="IT 39300" title="Industrl Practice III	"/>
+<course number="IT 39400" title="Industrial Practice IV	"/>
+<course number="IT 39500" title="Industrial Practice V	"/>
+<course number="IT 43200" title="Financ Transactn Distr	"/>
+<course number="IT 43400" title="Global TrnsandLogstc Mgt	"/>
+<course number="IT 44200" title="Production Planning"/>
+<course number="IT 44600" title="Six Sigma Quality"/>
+<course number="IT 45000" title="Productn Cost Analysis	"/>
+<course number="IT 47000" title="Teach Design and Innovation II"/>
+<course number="IT 47100" title="Managing Tech Educ Lab"/>
+<course number="IT 47200" title="Meth Teach Tech Educ"/>
+<course number="IT 48300" title="Facil Dsgn Lean Manuf"/>
+<course number="IT 49000" title="Spec Probl Indus Educ"/>
+<course number="IT 50700" title="Meas/Eval Ind and Tech"/>
+<course number="IT 54500" title="Biometrics Tech and Appl	"/>
+<course number="IT 57100" title="Proj Mgmt Ind and Tech"/>
+<course number="IT 58100" title="Workshop In Indust Tec"/>
+<course number="IT 59000" title="Spec Problems In IT"/>
+<course number="IT 59800" title="Directed MS Project"/>
+<course number="IT 69800" title="Research MS Thesis"/>
+<course number="ITAL 10100" title="Italian Level I"/>
+<course number="ITAL 10200" title="Italian Level II"/>
+<course number="ITAL 10500" title="Accel Basic Italian"/>
+<course number="ITAL 11100" title="Italian Conv I"/>
+<course number="ITAL 11200" title="Italian Conv II"/>
+<course number="ITAL 20100" title="Italian Level III"/>
+<course number="ITAL 20200" title="Italian Level IV"/>
+<course number="ITAL 20500" title="Accel Intermed Italian"/>
+<course number="ITAL 21100" title="Italian Conv III"/>
+<course number="ITAL 21200" title="Italian Conv IV"/>
+<course number="ITAL 30100" title="Italian Level V"/>
+<course number="ITAL 30200" title="Italian Level VI"/>
+<course number="ITAL 33000" title="The Italian Cinema"/>
+<course number="ITAL 33300" title="Spirit Of Ital Comedy"/>
+<course number="JPNS 10100" title="Japanese Level I"/>
+<course number="JPN 10200" title="Japanese Level II"/>
+<course number="JPN 20100" title="Japanese Level III"/>
+<course number="JPNS 20200" title="Japanese Level IV"/>
+<course number="JPNS 24100" title="Intro Study Jpns Lit"/>
+<course number="JPNS 30100" title="Japanese Level V"/>
+<course number="JPNS 30200" title="Japanese Level VI"/>
+<course number="JPNS 31300" title="Intermed Rdg Japan I"/>
+<course number="JPNS 33000" title="Japanese Cinema"/>
+<course number="JPNS 36100" title="Elem Survey Japan Ling"/>
+<course number="JPNS 40100" title="Japanese Level VII"/>
+<course number="JPNS 48000" title="Japanese Civilization"/>
+<course number="JPNS 52100" title="Teaching Japanese"/>
+<course number="JPNS 57500" title="Theories-Jpns Lang Acq"/>
+<course number="JPNS 67900" title="Sem Japan Linguistics"/>
+<course number="JPNS 69800" title="Research MA Thesis"/>
+<course number="LA 10100" title="Survey Of Lands Arch"/>
+<course number="LA 11600" title="Graphic Communication"/>
+<course number="LA 11700" title="Computer Tech In Dsign"/>
+<course number="LA 24600" title="Site Systems I"/>
+<course number="LA 30900" title="Co-Op Preparation"/>
+<course number="LA 31600" title="Land Arch Design III"/>
+<course number="LA 32500" title="Planting Design II"/>
+<course number="LA 34600" title="Site Systems II"/>
+<course number="LA 39000" title="Prof Coop Prog In L A"/>
+<course number="LA 41600" title="Land Arch Design V"/>
+<course number="LA 47600" title="Prof Pract Landsc Arch	"/>
+<course number="LA 49000" title="Special Problems"/>
+<course number="LALS 25000" title="Intro Latin Am and Latino Study"/>
+<course number="LATN 10100" title="Latin Level I"/>
+<course number="LATN 20100" title="Latin Level III"/>
+<course number="LATN 34300" title="Roman Oratory"/>
+<course number="LATN 59000" title="Dir Reading Latin"/>
+<course number="LC 23900" title="Cont For Women Writers"/>
+<course number="LC 26100" title="Intro Ling St For Lang"/>
+<course number="LC 37100" title="Phonetics Foreign Lang"/>
+<course number="LC 49000" title="Special Topics	"/>
+<course number="LC 49900" title="Research Foreign Lang"/>
+<course number="LC 51900" title="Teaching Foreign Langs"/>
+<course number="LC 56100" title="Intro Ling Anly Lang"/>
+<course number="LC 56300" title="Historical Linguistics"/>
+<course number="LC 56500" title="Sociolinguistics"/>
+<course number="LC 57500" title="Theories-For Lang Acq"/>
+<course number="LC 59000" title="Dir Rdg Foreign Lang"/>
+<course number="LC 63000" title="Comp Lit Funct Meth"/>
+<course number="LC 65000" title="Topics In Theory"/>
+<course number="LC 67900" title="Seminar In Linguistics"/>
+<course number="LC 69800" title="Research MA Thesis"/>
+<course number="LC 69900" title="Research PhD Thesis"/>
+<course number="LING 20100" title="Intro To Linguistics"/>
+<course number="LING 31100" title="Fundmntls Phon and Morph"/>
+<course number="LING 31500" title="Elements Of Phonetics"/>
+<course number="LING 32100" title="Fndatns Of Synt and Sem"/>
+<course number="LING 49900" title="Resrch In Linguistics"/>
+<course number="LING 50000" title="Intro To Linguistics"/>
+<course number="LING 51100" title="Phonology I:Dscr Analy"/>
+<course number="LING 52100" title="Syntax I: Synt Analy"/>
+<course number="LING 54100" title="Hist Ling and Lang Chng"/>
+<course number="LING 56500" title="Sociolinguistics	"/>
+<course number="LING 57000" title="Field Methods In Linguistics	"/>
+<course number="LING 59000" title="Dir Rdg In Linguistics"/>
+<course number="LING 59100" title="Spec Topics Phonology"/>
+<course number="LING 59800" title="Spec Topics Ling"/>
+<course number="LING 68900" title="Seminar In Linguistics	"/>
+<course number="LING 69000" title="Individual Seminar"/>
+<course number="LING 69800" title="Research MA Thesis"/>
+<course number="LING 69900" title="Research PhD Thesis"/>
+<course number="MA 10800" title="Math Professn and Discpl"/>
+<course number="MA 13700" title="Math For Elm Tchrs I"/>
+<course number="MA 13800" title="Math For Elm Tchrs II"/>
+<course number="MA 13900" title="Math For Elm Tchrs III"/>
+<course number="MA 15300" title="Algebra And Trig I	"/>
+<course number="MA 15400" title="Algebra And Trig II"/>
+<course number="MA 15800" title="Precalculus- Functions and Trig"/>
+<course number="MA 16100" title="Pl Anly Geo Calc I	"/>
+<course number="MA 16200" title="Pl Anly Geo Calc II"/>
+<course number="MA 16500" title="Anlytc GeomtryandCalc I"/>
+<course number="MA 17000" title="Intr Actuarial Science"/>
+<course number="MA 17300" title="Calc And Anly Geom II"/>
+<course number="MA 18100" title="Honors Calculus I"/>
+<course number="MA 18300" title="Professional Pract I"/>
+<course number="MA 18400" title="Professional Pract II"/>
+<course number="MA 19000" title="Elmntry Tpc Mth Undgrd"/>
+<course number="MA 22000" title="Introduction Calculus"/>
+<course number="MA 22100" title="Calculus For Tech I"/>
+<course number="MA 22200" title="Calculus For Tech II"/>
+<course number="MA 22300" title="Intro Analysis I"/>
+<course number="MA 22400" title="Intro Analysis II"/>
+<course number="MA 23100" title="Calculus For Life Sciences I"/>
+<course number="MA 23200" title="Calculus For Life Sciences II"/>
+<course number="MA 25000" title="Problems In Prob"/>
+<course number="MA 26100" title="Multivariate Calculus"/>
+<course number="MA 26200" title="Lin Alg Diff Equats"/>
+<course number="MA 26500" title="Linear Algebra"/>
+<course number="MA 26600" title="Ordinary Differ Equatn"/>
+<course number="MA 27100" title="Several Variable Calc"/>
+<course number="MA 27900" title="Modern Math"/>
+<course number="MA 28400" title="Professional Pract III"/>
+<course number="MA 30100" title="Intro Proof Real Anlys"/>
+<course number="MA 30300" title="Diff Equa Inc Systems"/>
+<course number="MA 30400" title="Diff Equa Inc Syst Ser"/>
+<course number="MA 34100" title="Foundations Analysis"/>
+<course number="MA 35100" title="Elem Linear Algebra"/>
+<course number="MA 35300" title="Linear Algebra II Appl	"/>
+<course number="MA 36200" title="Topics Vector Calculus"/>
+<course number="MA 36600" title="Ord Differential Eqs"/>
+<course number="MA 37300" title="Financial Mathematics"/>
+<course number="MA 37500" title="Intro Discrete Math"/>
+<course number="MA 38600" title="Professional Pract IV"/>
+<course number="MA 41600" title="Probability"/>
+<course number="MA 42500" title="Elem Complex Anly"/>
+<course number="MA 44000" title="Real Analysis Honors"/>
+<course number="MA 45000" title="Algebra Honors"/>
+<course number="MA 45300" title="Algebra I"/>
+<course number="MA 46000" title="Geometry"/>
+<course number="MA 46200" title="Elem Differ Geometry"/>
+<course number="MA 48100" title="Adv Prob-Solv Seminar"/>
+<course number="MA 48400" title="Sem Tch Coll AlgandTrig"/>
+<course number="MA 48700" title="Professional Practicum V"/>
+<course number="MA 49000" title="Topics In MA For Und"/>
+<course number="MA 50300" title="Abstract Algebra"/>
+<course number="MA 50400" title="Real Analysis"/>
+<course number="MA 51000" title="Vector Calculus"/>
+<course number="MA 51100" title="Linear Algebra Appl"/>
+<course number="MA 51400" title="Numerical Analysis"/>
+<course number="MA 51600" title="Adv Prob and Opt Num Mth"/>
+<course number="MA 51900" title="Intro To Probability"/>
+<course number="MA 52300" title="Int To Part Diff Equa"/>
+<course number="MA 52700" title="Adv Math Engr Phys I"/>
+<course number="MA 53200" title="Elem Stochastic Proc"/>
+<course number="MA 53900" title="Probability Theory II"/>
+<course number="MA 54400" title="Real Anlys Measur Thry"/>
+<course number="MA 54600" title="Intro Functional Anly"/>
+<course number="MA 55300" title="Intro Abstract Algebra"/>
+<course number="MA 55700" title="Abstract Algebra I"/>
+<course number="MA 56200" title="Intro Diff Geom and Topo	"/>
+<course number="MA 57100" title="Elementary Topology"/>
+<course number="MA 58500" title="Mathematical Logic I"/>
+<course number="MA 59800" title="Topics In Math"/>
+<course number="MA 62000" title="Theory Optimal Contr"/>
+<course number="MA 63800" title="Stochastic Processes I"/>
+<course number="MA 64200" title="Mth LinandNonlin Prt Dif"/>
+<course number="MA 69000" title="Topics In Algebra"/>
+<course number="MA 69200" title="Topics Applied Math"/>
+<course number="MA 69400" title="Topics Diff Equation"/>
+<course number="MA 69600" title="Topics In Geometry"/>
+<course number="MA 69900" title="Research PhD Thesis"/>
+<course number="MARS 12000" title="MARS Explorations"/>
+<course number="MARS 22000" title="Intro To Medievl and Ren Studies"/>
+<course number="MCMP 20500" title="Organic Chem II"/>
+<course number="MCMP 44200" title="Med Chm Molec Pharm IV"/>
+<course number="MCMP 49000" title="Special Topics"/>
+<course number="MCMP 57000" title="Prin Chem Act Biol Sys"/>
+<course number="MCMP 59800" title="Intro To Research"/>
+<course number="MCMP 62500" title="Grant Writing"/>
+<course number="MCMP 69600" title="Seminar Med Chem"/>
+<course number="MCMP 69800" title="Research MS Thesis"/>
+<course number="MCMP 69900" title="Research PhD Thesis"/>
+<course number="ME 20000" title="Thermodynamics I"/>
+<course number="ME 26300" title="ME Design, Inn and Entre	"/>
+<course number="ME 27000" title="Basic Mechanics I"/>
+<course number="ME 27400" title="Basic Mechanics II"/>
+<course number="ME 29000" title="Global Engr Prof Sem"/>
+<course number="ME 29199" title="Prof Practice Extensive I"/>
+<course number="ME 29299" title="Prof Practice Extensive II"/>
+<course number="ME 29700" title="ME Soph Projects"/>
+<course number="ME 30000" title="Thermodynamics II"/>
+<course number="ME 30900" title="Fluid Mechanics"/>
+<course number="ME 31500" title="Heat And Mass Transfer"/>
+<course number="ME 32300" title="Mechanics Of Material"/>
+<course number="ME 35200" title="Machine Design I"/>
+<course number="ME 36300" title="Prin Pract Mfg Process"/>
+<course number="ME 36500" title="Measurement Systems"/>
+<course number="ME 37500" title="System ModelandAnalysis"/>
+<course number="ME 38199" title="Prof Practice Co-Op I"/>
+<course number="ME 38299" title="Prof Practice Co-Op II"/>
+<course number="ME 38399" title="Prof Practice Co-Op III"/>
+<course number="ME 39399" title="Prof Practice Extensive III"/>
+<course number="ME 39499" title="Prof Practice Extensive IV"/>
+<course number="ME 39599" title="Prof Practice Extensive V"/>
+<course number="ME 39600" title="Prof Internship II"/>
+<course number="ME 43300" title="Prin Turbo Machinery"/>
+<course number="ME 44400" title="Comp-Aided Des and Proto"/>
+<course number="ME 45200" title="Machine Design II"/>
+<course number="ME 45500" title="Vehicle Dsgn and Fabrctn"/>
+<course number="ME 46300" title="Engineering Design"/>
+<course number="ME 47500" title="Automatic Control Sys"/>
+<course number="ME 49700" title="Mech Engr Projects"/>
+<course number="ME 50100" title="Stat Thermodynamics	"/>
+<course number="ME 50300" title="Energy Transfer Processes	"/>
+<course number="ME 50500" title="Intermed Heat Transfer	"/>
+<course number="ME 50900" title="Intermed Fluid Mech"/>
+<course number="ME 51300" title="Engineerng Acoustics"/>
+<course number="ME 51400" title="Fund Of Wind Energy"/>
+<course number="ME 51800" title="Analy Of Thermal Sys"/>
+<course number="ME 52600" title="Spray Applic and Theory"/>
+<course number="ME 55400" title="Intellectual Prop For Engrs"/>
+<course number="ME 55700" title="Des For Manufacturblty	"/>
+<course number="ME 56300" title="Mechanical Vibrations	"/>
+<course number="ME 57000" title="Machine Design"/>
+<course number="ME 57500" title="Des Control Systems"/>
+<course number="ME 57900" title="Digital Signal Process"/>
+<course number="ME 58000" title="Nonlinear Engr Systems"/>
+<course number="ME 58100" title="Num Mthds Mech Engr"/>
+<course number="ME 58600" title="Microproc Elecmech Sys"/>
+<course number="ME 58700" title="Engineering Optics"/>
+<course number="ME 59700" title="Adv Mech Engr Proj I"/>
+<course number="ME 66400" title="Vibr Continuous System	"/>
+<course number="ME 67700" title="Nonlin Feedbk Cont Des	"/>
+<course number="ME 69100" title="ME Grad Seminar"/>
+<course number="ME 69600" title="Adv Prof Internship"/>
+<course number="ME 69700" title="Adv Mech Engr Proj II"/>
+<course number="ME 69800" title="Research MS Thesis"/>
+<course number="ME 69900" title="Research PhD Thesis"/>
+<course number="MET	10200" title="Prodctn DesgnandSpecfctn"/>
+<course number="MET	11100" title="Applied Statics"/>
+<course number="MET	14400" title="MaterialsandProcesses II"/>
+<course number="MET	16200" title="Comput Anlys Tools MET"/>
+<course number="MET	21100" title="Appl Strength Material"/>
+<course number="MET	21300" title="Dynamics"/>
+<course number="MET	21400" title="Machine Elements"/>
+<course number="MET	22000" title="Heat\Power"/>
+<course number="MET	23000" title="Fluid Power"/>
+<course number="MET	24500" title="Manufacturing Systems"/>
+<course number="MET	28400" title="Intro To Industrial Controls"/>
+<course number="MET	29000" title="Special Topics In MET	"/>
+<course number="MET	29900" title="Mech Engr Tech"/>
+<course number="MET	31100" title="Exp Strength Materials"/>
+<course number="MET	31300" title="Applied Fluid Mechanic"/>
+<course number="MET	32000" title="Applied Thermodynamics"/>
+<course number="MET	34600" title="Adv Matls In Manufact"/>
+<course number="MET	40000" title="Mechanical Design"/>
+<course number="MET	42100" title="Air ConditiongandRefrig"/>
+<course number="MET	42600" title="Internal Combust Eng"/>
+<course number="MET	43600" title="Pneumatic Motion Cntrl"/>
+<course number="MET	45100" title="Manufact Qualty Contrl"/>
+<course number="MET	49000" title="Special Topics In MET"/>
+<course number="MET	49900" title="Mech Engr Technology"/>
+<course number="MET	52700" title="Tech Global Perspect"/>
+<course number="MET	53500" title="Optim Metalcast Dsgn"/>
+<course number="MET	58100" title="Workshop In MET"/>
+<course number="MET	59000" title="Spec Problems In MET"/>
+<course number="MET	59800" title="Directed MS Project"/>
+<course number="MET	69800" title="Research MS Thesis"/>
+<course number="MFET 29900" title="MFET Independent Project"/>
+<course number="MFET 34400" title="Automated Mfg Processes"/>
+<course number="MFET 34800" title="Industrial Robots andMotion Ctrl"/>
+<course number="MFET 48000" title="Project Plan Integratn"/>
+<course number="MGMT 10000" title="Management Lectures I"/>
+<course number="MGMT 17500" title="Info Strategies For Management"/>
+<course number="MGMT 20000" title="Intro Accounting	"/>
+<course number="MGMT 20010" title="Intro Acctg Non-Mgmt Majors"/>
+<course number="MGMT 20100" title="Mgmt Accounting I"/>
+<course number="MGMT 24300" title="Th Minorities In Mgmt"/>
+<course number="MGMT 29000" title="Problems In Mgmt	"/>
+<course number="MGMT 30100" title="Management Career Lect"/>
+<course number="MGMT 30400" title="Intro To Financial Management"/>
+<course number="MGMT 30500" title="Business Statistics"/>
+<course number="MGMT 30600" title="Management Science"/>
+<course number="MGMT 31000" title="Financial Mgmt"/>
+<course number="MGMT 32300" title="Intro To Market Analys"/>
+<course number="MGMT 32400" title="Marketing Mgmt"/>
+<course number="MGMT 35000" title="Intermediate Acctg I	"/>
+<course number="MGMT 35100" title="Intermediate Acctg II"/>
+<course number="MGMT 35400" title="Legal Found Business	"/>
+<course number="MGMT 36100" title="Operations Management"/>
+<course number="MGMT 38199" title="Prof Practice Co-Op I"/>
+<course number="MGMT 38200" title="Mgmt and Informatn Systm"/>
+<course number="MGMT 38299" title="Prof Practice Co-Op II"/>
+<course number="MGMT 38399" title="Prof Practice Co-Op III"/>
+<course number="MGMT 39000" title="Jr Level Prblm In Mgmt"/>
+<course number="MGMT 39010" title="Accounting Internship"/>
+<course number="MGMT 39020" title="Management Internship"/>
+<course number="MGMT 39030" title="Industrial Mgmt Internship"/>
+<course number="MGMT 39040" title="Economics Internship"/>
+<course number="MGMT 40100" title="Krannert Exec Forum"/>
+<course number="MGMT 41100" title="Investments Management"/>
+<course number="MGMT 41200" title="Financial Mkts\Instit"/>
+<course number="MGMT 41300" title="Adv Corporate Fin Mgmt"/>
+<course number="MGMT 41500" title="Intl Financial Mgmt"/>
+<course number="MGMT 42500" title="Marketing Research"/>
+<course number="MGMT 45100" title="Strategic Management"/>
+<course number="MGMT 45500" title="Legal Bkgrnd Bus I"/>
+<course number="MGMT 45600" title="Legal Foundatns Bus II"/>
+<course number="MGMT 45900" title="International Mangemnt"/>
+<course number="MGMT 48400" title="Mgmt New Entreprenship"/>
+<course number="MGMT 49000" title="Prob In Indus Mgt"/>
+<course number="MGMT 50300" title="Advanced Accounting"/>
+<course number="MGMT 50400" title="Tax Accounting"/>
+<course number="MGMT 50500" title="Mgmt Accounting II"/>
+<course number="MGMT 50600" title="Auditing	"/>
+<course number="MGMT 50900" title="International Accountg"/>
+<course number="MGMT 52100" title="Brand Management	"/>
+<course number="MGMT 53100" title="Gov\Not-For-Profit Accounting"/>
+<course number="MGMT 54400" title="Database Mgmt Systems"/>
+<course number="MGMT 54700" title="Computer Comm Systems"/>
+<course number="MGMT 56000" title="Manufact Plan and Contrl"/>
+<course number="MGMT 56100" title="Logistics"/>
+<course number="MGMT 56200" title="Project Management"/>
+<course number="MGMT 56500" title="Strat Sourcing and Procurement"/>
+<course number="MGMT 56600" title="Global Supply Chain Management"/>
+<course number="MGMT 57100" title="Data Mining"/>
+<course number="MGMT 57200" title="Six Sigma and Quality Management"/>
+<course number="MGMT 59000" title="Direct Read In Mgmt"/>
+<course number="MGMT 60000" title="Accounting For Managers	"/>
+<course number="MGMT 60200" title="Valuation And Fin State Anly"/>
+<course number="MGMT 60900" title="Sem\External Report II"/>
+<course number="MGMT 61000" title="Financial Management	"/>
+<course number="MGMT 61801" title="Sem In Managerial Finance I	"/>
+<course number="MGMT 61802" title="Sem In Managerial Finance II	"/>
+<course number="MGMT 62000" title="Marketing Management"/>
+<course number="MGMT 62500" title="Res Meth In Mktg Mgmt"/>
+<course number="MGMT 62600" title="Semnr Mktg Models"/>
+<course number="MGMT 63000" title="Legal Social Fnd Mgmt"/>
+<course number="MGMT 63400" title="Business Law For Accountants	"/>
+<course number="MGMT 63410" title="Communications For Accountnt	"/>
+<course number="MGMT 63500" title="Accounting Information Systems"/>
+<course number="MGMT 63900" title="Adv Audit and Prof Practice"/>
+<course number="MGMT 64100" title="Options And Futures"/>
+<course number="MGMT 64200" title="Portfolio Management II"/>
+<course number="MGMT 64400" title="Vnture CaptlandInvst Bnk"/>
+<course number="MGMT 64900" title="Global Marketing Management"/>
+<course number="MGMT 66100" title="Mgmt Operat Systems"/>
+<course number="MGMT 66900" title="Op Mgmt:Pract and Models"/>
+<course number="MGMT 67000" title="Business Analytics"/>
+<course number="MGMT 67200" title="Advanced Business Analytics"/>
+<course number="MGMT 68800" title="Devel Globl Bus Strat"/>
+<course number="MGMT 69000" title="Adv Prblms In Mgmt"/>
+<course number="MGMT 69100" title="Special Prblms In Mgmt"/>
+<course number="MGMT 69200" title="Managerial Communicatn Skills"/>
+<course number="MGMT 69900" title="Research PhD Thesis"/>
+<course number="MGMT 90000" title="Pre-Management Orient"/>
+<course number="MSE	19000" title="Intr To Materials Engr"/>
+<course number="MSE	23000" title="Struc and Prop Of Mat"/>
+<course number="MSE	23500" title="Mat Properties Lab"/>
+<course number="MSE	29299" title="Prof Practice Extensive II"/>
+<course number="MSE	33500" title="Mat Character Lab"/>
+<course number="MSE	34000" title="Transport Phenomena"/>
+<course number="MSE	37000" title="Elec Opt Mag Prop Mat"/>
+<course number="MSE	39000" title="Materials Engr Seminar"/>
+<course number="MSE	39399" title="Prof Practice Extensive III"/>
+<course number="MSE	39499" title="Prof Practice Extensive IV"/>
+<course number="MSE	39599" title="Prof Practice Extensive V"/>
+<course number="MSE	39600" title="Prof Internship"/>
+<course number="MSE	43000" title="Mat Process Design I"/>
+<course number="MSE	44500" title="Matls Engr Sys Anlys and Design"/>
+<course number="MSE	49700" title="Tpcs Materials Engr"/>
+<course number="MSE	49900" title="Res Materials Engr"/>
+<course number="MSE	50800" title="Phase Transform Solids"/>
+<course number="MSE	53100" title="Quant Anly Microstruct"/>
+<course number="MSE	54700" title="Intro Surface Science	"/>
+<course number="MSE	54800" title="Deposition Films\Coat"/>
+<course number="MSE	58100" title="SEM Skills"/>
+<course number="MSE	58200" title="TEM Skills"/>
+<course number="MSE	59700" title="Select Tpcs Mat Engr"/>
+<course number="MSE	69000" title="Semnr Materials Engr"/>
+<course number="MSE	69700" title="Spec Tpcs Matrls Eng"/>
+<course number="MSE	69800" title="Research MS Thesis"/>
+<course number="MSE	69900" title="Research PhD Thesis"/>
+<course number="MSL	10100" title="Foundation Officership"/>
+<course number="MSL	20100" title="Indiv Ldrship Studies"/>
+<course number="MSL	30100" title="Ldrship and Prob Solving"/>
+<course number="MSL	40100" title="Leadership and Managemnt"/>
+<course number="MSL	49000" title="Dir Study In Milt Sci"/>
+<course number="MUS	25000" title="Music Appreciation"/>
+<course number="MUS	26100" title="Fundamentals Of Music"/>
+<course number="MUS	32400" title="Teach Music Elem Schl"/>
+<course number="MUS	36100" title="Music Theory I"/>
+<course number="MUS	36300" title="Music Theory III"/>
+<course number="MUS	37800" title="Jazz History"/>
+<course number="MUS	38100" title="Music History I"/>
+<course number="MUS	49000" title="Guided Reading"/>
+<course number="MUS	59000" title="Spec Prob In Music"/>
+<course number="NRES 25500" title="Soil Science	"/>
+<course number="NRES 29000" title="Intro Environ Science"/>
+<course number="NRES 38500" title="Environ Soil Chemistry"/>
+<course number="NRES 41000" title="Res In Natural ResrcandEnvir Sci"/>
+<course number="NRES 42000" title="Environment Internship Report"/>
+<course number="NRES 45000" title="Soil Conser Water Mgt"/>
+<course number="NRES 49700" title="NRES Seminar"/>
+<course number="NRES 49800" title="Ind Studies Envir Sc"/>
+<course number="NS 11000" title="Intro To Naval Science"/>
+<course number="NS 20200" title="Naval Lab"/>
+<course number="NS 21400" title="Fund Of Leadership"/>
+<course number="NS 31100" title="Naval Operations"/>
+<course number="NS 33000" title="Evolution Of Warfare"/>
+<course number="NS 35000" title="Naval Ship Systems	"/>
+<course number="NS 41300" title="Naval Ldrsp MgtandEthics"/>
+<course number="NS 44000" title="Amphib Leadrsh Warfare"/>
+<course number="NUCL 11000" title="Intro To Energy Engr"/>
+<course number="NUCL 20000" title="Intro Nucl Engineering"/>
+<course number="NUCL 27300" title="Mechanics Of Materials"/>
+<course number="NUCL 29199" title="Prof Practice Extensive I"/>
+<course number="NUCL 29299" title="Prof Practice Extensive II"/>
+<course number="NUCL 29800" title="Sophomore Seminar"/>
+<course number="NUCL 30000" title="Nucl Struct And Inter"/>
+<course number="NUCL 30500" title="Nucl Undergrad Lab II"/>
+<course number="NUCL 32000" title="Intro Matls Nucl Appl"/>
+<course number="NUCL 35000" title="Nucl Therm-Hydraul I"/>
+<course number="NUCL 38199" title="Prof Practice Co-Op I"/>
+<course number="NUCL 38299" title="Prof Practice Co-Op II"/>
+<course number="NUCL 38399" title="Prof Practice Co-Op III"/>
+<course number="NUCL 39399" title="Prof Practice Extensive III"/>
+<course number="NUCL 39499" title="Prof Practice Extensive IV"/>
+<course number="NUCL 39599" title="Prof Practice Extensive V"/>
+<course number="NUCL 39699" title="Prof Practice Internship"/>
+<course number="NUCL 39800" title="Junior Seminar"/>
+<course number="NUCL 40200" title="Engr Of Nucl Power Sys"/>
+<course number="NUCL 44900" title="Senior Design Proposal"/>
+<course number="NUCL 47000" title="Fuel Cell Engr"/>
+<course number="NUCL 48000" title="Nucl Tech Communications"/>
+<course number="NUCL 49700" title="Sel Topics Nucl Engr"/>
+<course number="NUCL 49800" title="Senior Seminar"/>
+<course number="NUCL 50100" title="Nuclear Engr Prin"/>
+<course number="NUCL 51000" title="Nuclear React Theo I"/>
+<course number="NUCL 55100" title="Energy Transfer"/>
+<course number="NUCL 56000" title="Intro To Fusion Tech"/>
+<course number="NUCL 57500" title="Neural Computing Engr"/>
+<course number="NUCL 59700" title="Nuclear Engr Proj I"/>
+<course number="NUCL 69600" title="Nuclear Engr Sem	"/>
+<course number="NUCL 69700" title="Nuclear Engr Proj II"/>
+<course number="NUCL 69800" title="Research MS Thesis"/>
+<course number="NUCL 69900" title="Research PhD Thesis"/>
+<course number="NUPH 49000" title="Special Topics"/>
+<course number="NUPH 56000" title="Nuclear Med Case Study"/>
+<course number="NUPH 69600" title="Sem Nuclear Pharmacy"/>
+<course number="NUR	10800" title="Introduction To Nursing"/>
+<course number="NUR	21801" title="Hlth Assmnt Nur Prac I"/>
+<course number="NUR	21901" title="Pathopharmacology I"/>
+<course number="NUR	22201" title="Population Health"/>
+<course number="NUR	22301" title="Research And EBP"/>
+<course number="NUR	31401" title="Adult Nursing I"/>
+<course number="NUR	31501" title="Nur Childbearing Families"/>
+<course number="NUR	31601" title="Integration Seminar I"/>
+<course number="NUR	31701" title="Adult Nursing II"/>
+<course number="NUR	31801" title="Psychosocial Nursing"/>
+<course number="NUR	31901" title="Integration Seminar II"/>
+<course number="NUR	39900" title="Special Topics"/>
+<course number="NUR	40200" title="Public Health Nursing"/>
+<course number="NUR	40300" title="Public Hlth Nur Clinic"/>
+<course number="NUR	40400" title="Leadership In Nursing"/>
+<course number="NUR	40800" title="Research In Nursing"/>
+<course number="NUR	40900" title="Senior Capstone"/>
+<course number="NUR	41000" title="Issues In Prof Nursing"/>
+<course number="NUR	41200" title="Pediatric Nursing"/>
+<course number="NUR	41300" title="Pediatric Nursing-Clin"/>
+<course number="NUR	43700" title="Clinical Lead Develop"/>
+<course number="NUR	50000" title="Theoret Constructs Nur"/>
+<course number="NUR	50700" title="Physiologic Process APN"/>
+<course number="NUR	51000" title="ResearchandEvid Based Nurs Pract"/>
+<course number="NUR	52800" title="Acut Ill:Ped Hlth Prac"/>
+<course number="NUR	52900" title="Acute Ill:Preceptorshp"/>
+<course number="NUR	53200" title="Acute Ill:Adlt Hlth Pr"/>
+<course number="NUR	53300" title="Acute Ill:Hlth Precept"/>
+<course number="NUR	59800" title="Research Project"/>
+<course number="NUR	59900" title="Ind Study In Nursing"/>
+<course number="NUR	62600" title="App Biostatistics Outcome Eval"/>
+<course number="NUR	63200" title="Hlth Pol:Locl To Globl"/>
+<course number="NUR	67500" title="Role TranstnandSynthesis"/>
+<course number="NUR	68000" title="DNP Residency: Direct Pract I"/>
+<course number="NUR	68100" title="DNP Residency: Direct Pract II"/>
+<course number="NUR	68300" title="DNP Cog Res:Pub Hlth Pract I"/>
+<course number="NUR	68500" title="DNP Cog Res: Pub Hlth Pract II"/>
+<course number="NUR	68700" title="DNP Practice Inquiry Project I"/>
+<course number="NUR	68900" title="DNP Practice Inquiry Proj II"/>
+<course number="NUR	90400" title="Nursing Senior Tests"/>
+<course number="NUTR 10500" title="Nutr In 21st Century"/>
+<course number="NUTR 10600" title="Prof Of Dietetics"/>
+<course number="NUTR 12500" title="Food Safety Cert"/>
+<course number="NUTR 20200" title="Food Preparatn and Nutr"/>
+<course number="NUTR 20500" title="Food Science I"/>
+<course number="NUTR 29700" title="Intro To Honors Research	"/>
+<course number="NUTR 30300" title="Essentials Of Nutr"/>
+<course number="NUTR 31500" title="Fund Of Nutrition"/>
+<course number="NUTR 33000" title="Diet Select and Planning"/>
+<course number="NUTR 34000" title="Field Experience NFH	"/>
+<course number="NUTR 35000" title="Practium In Dietetics"/>
+<course number="NUTR 37500" title="FandN Internship"/>
+<course number="NUTR 39000" title="Indep Undergrad Resrch"/>
+<course number="NUTR 39200" title="Undergrad Instr In Nutrition"/>
+<course number="NUTR 39700" title="Directed Honors Research"/>
+<course number="NUTR 40000" title="Executive In Classroom"/>
+<course number="NUTR 41100" title="Supervised Practice Prep"/>
+<course number="NUTR 41500" title="Pract Nutr, Fit and Hlth"/>
+<course number="NUTR 42400" title="Com Tech In Fd and Nutr"/>
+<course number="NUTR 42600" title="Lab In Community Nutrition"/>
+<course number="NUTR 43600" title="Nutrition Assessment"/>
+<course number="NUTR 43800" title="Micronutr\Phyto Metab"/>
+<course number="NUTR 44300" title="Lab In Foodserv Systems Mgmt"/>
+<course number="NUTR 45300" title="Food Chemistry"/>
+<course number="NUTR 48800" title="Topic Nutr Fitns and Hlth"/>
+<course number="NUTR 49000" title="Independent Undergrad Research"/>
+<course number="NUTR 49200" title="Undergrad Instr In Nutrition	"/>
+<course number="NUTR 49700" title="Honors Research Project"/>
+<course number="NUTR 59000" title="Spec Prob In Nutrit"/>
+<course number="NUTR 60500" title="Nutr Biochem and Phys I"/>
+<course number="NUTR 60900" title="Food Lipids"/>
+<course number="NUTR 61200" title="Obesity: Beh, Phys, Policy"/>
+<course number="NUTR 63000" title="Carbohydrates"/>
+<course number="NUTR 69000" title="Inter Ntr Prg Grnt Wrt"/>
+<course number="NUTR 69500" title="Seminar"/>
+<course number="NUTR 69800" title="Research MS Thesis"/>
+<course number="NUTR 69900" title="Research PhD Thesis"/>
+<course number="OBHR 30000" title="Mgmt Of Human Resource"/>
+<course number="OBHR 33000" title="Intro To Org Behavior"/>
+<course number="OBHR 39000" title="Jr Level Prblm In Obhr"/>
+<course number="OBHR 42800" title="Human Resources Mgmt"/>
+<course number="OBHR 56000" title="Mentoring and Socializ"/>
+<course number="OBHR 60500" title="Research Methods I"/>
+<course number="OBHR 63100" title="Human Resource Systms"/>
+<course number="OBHR 64200" title="Compensation and Reward Systems"/>
+<course number="OBHR 64400" title="Staffing Tools"/>
+<course number="OBHR 66200" title="Leadership"/>
+<course number="OBHR 68100" title="Managing Behavior In Organiz"/>
+<course number="OBHR 69000" title="Adv Prob Orgnztnl Bhvr"/>
+<course number="OBHR 69900" title="Research PhD Thesis"/>
+<course number="OLS	25200" title="Human Relatn In Organz"/>
+<course number="OLS	27400" title="Applied Leadership"/>
+<course number="OLS	28400" title="Leadership Principles"/>
+<course number="OLS	29900" title="Organiz Ldrshp and Supv"/>
+<course number="OLS	34600" title="Critical Thinking And Ethics"/>
+<course number="OLS	35100" title="Innovation and Entrprshp"/>
+<course number="OLS	36200" title="Coop Education Program"/>
+<course number="OLS	37500" title="Training Methods"/>
+<course number="OLS	37600" title="Human Resource Issues"/>
+<course number="OLS	38600" title="Ldrshp For Org Change and Innov"/>
+<course number="OLS	38800" title="Ldrshp Through Teams"/>
+<course number="OLS	39900" title="Special Topics"/>
+<course number="OLS	45000" title="Proj Mgmt For Org and HRD"/>
+<course number="OLS	45600" title="Ldrshp In Global Envir"/>
+<course number="OLS	46700" title="Service Learning"/>
+<course number="OLS	47700" title="Conflict Management"/>
+<course number="OLS	48400" title="Ldrshp Strat QltyandProd"/>
+<course number="OLS	48700" title="Leadership Philosophy"/>
+<course number="OLS	49100" title="Internship Program"/>
+<course number="OLS	49101" title="Internship Experience"/>
+<course number="OLS	49900" title="Spec Tpcs In OLS"/>
+<course number="OLS	58100" title="Workshop In OLS"/>
+<course number="OLS	58900" title="Leadership And Ethics"/>
+<course number="OLS	59000" title="Ind Res Prb Supv Per"/>
+<course number="OLS	59800" title="Directed MS Project"/>
+<course number="OLS	69800" title="Research MS Thesis"/>
+<course number="PES	11100" title="Lifetime Fitness"/>
+<course number="PES	11200" title="Aquatic Mvmt Forms"/>
+<course number="PES	11400" title="Exercise Condition"/>
+<course number="PES	11500" title="Indv Dual Mvmt Frm I"/>
+<course number="PES	11600" title="Indv Dual Mvmt Fm II"/>
+<course number="PHAD 46400" title="Mgmt Prof Pract"/>
+<course number="PHAD 69600" title="Sem In Phar Adm"/>
+<course number="PHIL 11000" title="Intro To Philosophy"/>
+<course number="PHIL 11100" title="Ethics"/>
+<course number="PHIL 11400" title="Global Moral Issues"/>
+<course number="PHIL 12000" title="Critical Thinking"/>
+<course number="PHIL 15000" title="Principles Of Logic"/>
+<course number="PHIL 20600" title="Philos Of Religion"/>
+<course number="PHIL 21900" title="Intro Existentialism"/>
+<course number="PHIL 22100" title="Intro Philosophy Sci"/>
+<course number="PHIL 22500" title="Philosophy Of Woman"/>
+<course number="PHIL 26000" title="Philosophy And Law"/>
+<course number="PHIL 27500" title="Philosophy Of Art"/>
+<course number="PHIL 28000" title="Ethics And Animals"/>
+<course number="PHIL 30100" title="Ancient Philosophy"/>
+<course number="PHIL 30200" title="Hist Medieval Philos"/>
+<course number="PHIL 30300" title="Hist Of Modern Phil"/>
+<course number="PHIL 33000" title="Religions Of The East"/>
+<course number="PHIL 33100" title="Religions Of The West"/>
+<course number="PHIL 42500" title="Metaphysics"/>
+<course number="PHIL 43500" title="Philosophy Of Mind"/>
+<course number="PHIL 45000" title="Symbolic Logic"/>
+<course number="PHIL 50500" title="Islamic\Jewish Phil"/>
+<course number="PHIL 50700" title="Recent American Phil"/>
+<course number="PHIL 51000" title="Phenomenology"/>
+<course number="PHIL 57600" title="Phil and Lit Theory"/>
+<course number="PHIL 58000" title="Pro-Seminar In Phil"/>
+<course number="PHIL 59000" title="Dir Read In Phil"/>
+<course number="PHIL 62400" title="Seminar In Ethics"/>
+<course number="PHIL 66500" title="Philos Of Language"/>
+<course number="PHIL 68400" title="British Empiricism"/>
+<course number="PHIL 69800" title="Research MA Thesis"/>
+<course number="PHIL 69900" title="Research PhD Thesis"/>
+<course number="PHPR 43400" title="Institutional Pharmacy IPPE"/>
+<course number="PHPR 45000" title="Intro Inst Pharm Pract"/>
+<course number="PHPR 45500" title="Medicare In Pharmacy Practice"/>
+<course number="PHPR 49000" title="Special Topics"/>
+<course number="PHPR 59000" title="Spec Tpcs Pharm Pract"/>
+<course number="PHPR 66400" title="Res Tech Proposal Dev"/>
+<course number="PHPR 69800" title="Research MS Thesis"/>
+<course number="PHPR 69900" title="Research PhD Thesis"/>
+<course number="PHRM 10000" title="Pharm Orientation I"/>
+<course number="PHRM 20000" title="Pharmacy Orientation II"/>
+<course number="PHRM 40300" title="Integrated Lab V"/>
+<course number="PHRM 46000" title="Drug Discovery and Development I"/>
+<course number="PHRM 49000" title="Special Topics"/>
+<course number="PHRM 82000" title="Professional Program Lab I"/>
+<course number="PHRM 82200" title="Pharm Skills and Patient Counsel"/>
+<course number="PHRM 82400" title="Pathophysiology and Drug Action"/>
+<course number="PHRM 82600" title="Intro Patient Centered Care"/>
+<course number="PHRM 82800" title="Dosage Forms I"/>
+<course number="PHRM 83000" title="Intro To Law and Ethics"/>
+<course number="PHRM 83200" title="Princ Diag Labs and Monitoring"/>
+<course number="PHRM 83400" title="Pharm Calculations"/>
+<course number="PHRM 83600" title="Biochem Pharm Sci II"/>
+<course number="PHRM 84000" title="Prof Program Laboratory III"/>
+<course number="PHRM 84200" title="Community Pharmacy IPPE"/>
+<course number="PHRM 84400" title="Integrated Pharmacotherapy II"/>
+<course number="PHRM 84600" title="Principles Of Pharmacokinetics"/>
+<course number="PHRM 84800" title="Drug Info and Lit Eval"/>
+<course number="PHRM 88000" title="Adv Pharm Practice Exp"/>
+<course number="PHYS 14900" title="Mechanics"/>
+<course number="PHYS 17200" title="Modern Mechanics"/>
+<course number="PHYS 18300" title="Professnl Practice I	"/>
+<course number="PHYS 18400" title="Professnl Practice II"/>
+<course number="PHYS 21400" title="The Nature Of Physics"/>
+<course number="PHYS 21500" title="Physics For Elem Educ"/>
+<course number="PHYS 21700" title="Cur Phys and Forefront Res"/>
+<course number="PHYS 21800" title="General Physics"/>
+<course number="PHYS 21900" title="General Physics II"/>
+<course number="PHYS 22000" title="Gen Physics"/>
+<course number="PHYS 22100" title="Gen Physics"/>
+<course number="PHYS 22200" title="Mechanics Laboratory"/>
+<course number="PHYS 24100" title="Electricity Optics"/>
+<course number="PHYS 25200" title="Electr Optics Lab"/>
+<course number="PHYS 27200" title="EandM Interactions"/>
+<course number="PHYS 28400" title="Professnl Practice III"/>
+<course number="PHYS 29000" title="Special Assignments"/>
+<course number="PHYS 29500" title="Outreach Assistance"/>
+<course number="PHYS 30600" title="Math Methods Phys I"/>
+<course number="PHYS 31000" title="Intermed Mechanics"/>
+<course number="PHYS 32200" title="Intermediate Optics"/>
+<course number="PHYS 33000" title="Interm Elect and Magnet"/>
+<course number="PHYS 34000" title="Modern Physics Lab"/>
+<course number="PHYS 34200" title="Modern Physics"/>
+<course number="PHYS 34400" title="Modern Physics"/>
+<course number="PHYS 38600" title="Professnl Practice IV"/>
+<course number="PHYS 41000" title="Phys Mech I Honors"/>
+<course number="PHYS 41600" title="ThermandStat Phys Honors"/>
+<course number="PHYS 43100" title="Electr Mag II Honors"/>
+<course number="PHYS 45000" title="Intermediate Laboratory"/>
+<course number="PHYS 46000" title="Quantu Mech I Honors"/>
+<course number="PHYS 48700" title="Professional Practice V"/>
+<course number="PHYS 49000" title="Special Assignments"/>
+<course number="PHYS 52100" title="Survey Classical Phys	"/>
+<course number="PHYS 55000" title="Intro To Quantum Mec"/>
+<course number="PHYS 55600" title="Intro Nuclear Physics"/>
+<course number="PHYS 56100" title="Galaxies and Lg Scale Structure"/>
+<course number="PHYS 56200" title="High Energy Astrophys"/>
+<course number="PHYS 56400" title="Intro Element Partcl"/>
+<course number="PHYS 57000" title="Selected Topics"/>
+<course number="PHYS 57500" title="Relativity Theory"/>
+<course number="PHYS 59000" title="Reading And Research"/>
+<course number="PHYS 59300" title="Independent Research	"/>
+<course number="PHYS 60000" title="Methods Theoret Phys I	"/>
+<course number="PHYS 60200" title="Meth Theoret Phys IIIA	"/>
+<course number="PHYS 60500" title="Pedagogical Mthd Grad Students	"/>
+<course number="PHYS 63000" title="Adv Theo Elec Magnet	"/>
+<course number="PHYS 64500" title="Electron Thry Sol I	"/>
+<course number="PHYS 66000" title="Quantum Mechanics I	"/>
+<course number="PHYS 66100" title="Quantum Mechanics II	"/>
+<course number="PHYS 69800" title="Research MS Thesis	"/>
+<course number="PHYS 69900" title="Research PhD Thesis	"/>
+<course number="POL	10100" title="American Government	"/>
+<course number="POL	12000" title="Intr Pub Pol-Pub Admin	"/>
+<course number="POL	13000" title="Intro To Int Reltns	"/>
+<course number="POL	14100" title="Govts Of The World	"/>
+<course number="POL	22200" title="Wom Pol And Publ Pol	"/>
+<course number="POL	22300" title="Intr Environmental Pol	"/>
+<course number="POL	23100" title="Intro U S For Policy	"/>
+<course number="POL	23500" title="Rich And Poor Nations	"/>
+<course number="POL	30000" title="Intro Polit Analysis	"/>
+<course number="POL	31400" title="President Pol Process	"/>
+<course number="POL	32300" title="Comp Envir Policy	"/>
+<course number="POL	32700" title="Global Green Politics	"/>
+<course number="POL	35300" title="Current Pol Ideolog	"/>
+<course number="POL	36000" title="Women And The Law	"/>
+<course number="POL	40300" title="Field Exper In Pol Sci	"/>
+<course number="POL	41000" title="Polit Parties Politics	"/>
+<course number="POL	41100" title="Congress Structure	"/>
+<course number="POL	42900" title="Contemp Pol Probs	"/>
+<course number="POL	43200" title="Problems World Order	"/>
+<course number="POL	43500" title="International Law	"/>
+<course number="POL	46100" title="Constitutional Law I	"/>
+<course number="POL	49100" title="Pol Sci Senior Seminar	"/>
+<course number="POL	49500" title="Undergrad Research Exp	"/>
+<course number="POL	50100" title="Pol Sci Methodology	"/>
+<course number="POL	52400" title="Public Pol And Family	"/>
+<course number="POL	59000" title="Directed Reading	"/>
+<course number="POL	60000" title="Pol Sci: Discipline	"/>
+<course number="POL	62000" title="Proseminar Public Pol	"/>
+<course number="POL	62300" title="Res Sem Environ Policy	"/>
+<course number="POL	63000" title="Proseminar Int Relat	"/>
+<course number="POL	63100" title="Seminar Intl Relats	"/>
+<course number="POL	64100" title="Research Semr Comp Pol	"/>
+<course number="POL	69500" title="Directed Read Res	"/>
+<course number="POL	69900" title="Research PhD Thesis	"/>
+<course number="PSY	10000" title="Intro Sci Fields Psy	"/>
+<course number="PSY	12000" title="Elementary Psychology	"/>
+<course number="PSY	20000" title="Intro Cogn Psych	"/>
+<course number="PSY	20100" title="Intro To Stat In Psych	"/>
+<course number="PSY	20300" title="Intro Res Meth In Psy	"/>
+<course number="PSY	22200" title="Intro Behvr Neurosci	"/>
+<course number="PSY	23500" title="Child Psychology	"/>
+<course number="PSY	24000" title="Intro Social Psych	"/>
+<course number="PSY	27200" title="Intro To Ind-Org Psych	"/>
+<course number="PSY	31000" title="Sensory Percep Proc	"/>
+<course number="PSY	31400" title="Intro To Learning	"/>
+<course number="PSY	32200" title="Neurosci Motiv Behavr	"/>
+<course number="PSY	33500" title="Stereotyping And Prej	"/>
+<course number="PSY	34200" title="Psych Of Personality	"/>
+<course number="PSY	35000" title="Abnormal Psychology	"/>
+<course number="PSY	36100" title="Human Dev I Infancy	"/>
+<course number="PSY	36700" title="Adult Devel and Aging	"/>
+<course number="PSY	36800" title="Culture And Developmnt	"/>
+<course number="PSY	39000" title="Res Exper In Psych	"/>
+<course number="PSY	39100" title="Readings In Psychology	"/>
+<course number="PSY	39200" title="Topics In Psychology	"/>
+<course number="PSY	40500" title="Honors Res Seminar II	"/>
+<course number="PSY	42800" title="Drugs And Behavior	"/>
+<course number="PSY	49200" title="Internship Psych	"/>
+<course number="PSY	49800" title="Senior Research	"/>
+<course number="PSY	53500" title="Psych Of Death and Dying	"/>
+<course number="PSY	57700" title="Human Factors In Engr	"/>
+<course number="PSY	59100" title="Topics In Psychology	"/>
+<course number="PSY	60300" title="Psychopharmacology	"/>
+<course number="PSY	60600" title="Spec Tpcs Quant Psy	"/>
+<course number="PSY	62400" title="Human Lrning and Memry	"/>
+<course number="PSY	63000" title="Sterotyping And Prejudice	"/>
+<course number="PSY	63300" title="Seminar Exper Psy	"/>
+<course number="PSY	64000" title="Survey Of Social Psych	"/>
+<course number="PSY	64600" title="Sem In Soc-Pers Psy	"/>
+<course number="PSY	66800" title="Clinical Assessment II	"/>
+<course number="PSY	67300" title="Behavior Disorders	"/>
+<course number="PSY	67900" title="Pract Clin Psych	"/>
+<course number="PSY	68000" title="Srvy Of Ind\Org Psy	"/>
+<course number="PSY	68100" title="Sem Mthd Ind\Org Psy	"/>
+<course number="PSY	69000" title="Research In Psychology	"/>
+<course number="PSY	69100" title="Readings In Psychology	"/>
+<course number="PSY	69200" title="Topics In Psychology	"/>
+<course number="PSY	69700" title="Clinic Psych Interns	"/>
+<course number="PSY	69800" title="Research MS Thesis	"/>
+<course number="PSY	69900" title="Research PhD Thesis	"/>
+<course number="PTGS 10100" title="Portuguese Level I	"/>
+<course number="PTGS 10200" title="Portuguese Level II	"/>
+<course number="PTGS 20100" title="Portuguese Level III	"/>
+<course number="PTGS 20200" title="Portuguese Level IV	"/>
+<course number="PTGS 59000" title="Dir Read Ptgse	"/>
+<course number="PTGS 59400" title="Spec Top Luso-Braz Lit	"/>
+<course number="REL	20000" title="Intro To Study Of Rel	"/>
+<course number="REL	23000" title="Religions Of The East	"/>
+<course number="REL	23100" title="Religions Of The West	"/>
+<course number="REL	31700" title="Anc Jud and Early Christ	"/>
+<course number="REL	45100" title="Christology	"/>
+<course number="RUSS 10100" title="Russian Level I	"/>
+<course number="RUSS 11100" title="Conv Supp Russ Lev I	"/>
+<course number="RUSS 20100" title="Russian Level III	"/>
+<course number="RUSS 21100" title="Conv Supp Russ Lev III	"/>
+<course number="RUSS 30100" title="Russian Level V	"/>
+<course number="RUSS 33000" title="Russ and E European Cine	"/>
+<course number="RUSS 34200" title="Russian Literature II	"/>
+<course number="RUSS 40100" title="Russian Level VII	"/>
+<course number="RUSS 56100" title="Struc Russian I	"/>
+<course number="SA 10107" title="Global Leadership For Freshmen	"/>
+<course number="SA 20101" title="Curtin Univ Of Tech-Exchange	"/>
+<course number="SA 20107" title="Queensland Univ Of Tech	"/>
+<course number="SA 20110" title="Univ Of New South Wales	"/>
+<course number="SA 20125" title="Univ Of Western Australia	"/>
+<course number="SA 20131" title="City University Of Hong Kong	"/>
+<course number="SA 20135" title="Hong Kong U Of Science and Tech	"/>
+<course number="SA 20139" title="Tsinghua University	"/>
+<course number="SA 20145" title="Aarhus School Of Business	"/>
+<course number="SA 20146" title="Copenhagen Business School	"/>
+<course number="SA 20147" title="Tech University Of Denmark	"/>
+<course number="SA 20148" title="University Of Lapland	"/>
+<course number="SA 20150" title="Alsatian Univ Consortium	"/>
+<course number="SA 20173" title="Ruhr University Bochum	"/>
+<course number="SA 20195" title="Dublin Institute Of Technology	"/>
+<course number="SA 20196" title="University College Dublin	"/>
+<course number="SA 20198" title="Univ Galway Exchange	"/>
+<course number="SA 20201" title="Universita Bocconi	"/>
+<course number="SA 20206" title="Nanzan University	"/>
+<course number="SA 20209" title="Tohoku University	"/>
+<course number="SA 20210" title="University Of Tsukuba	"/>
+<course number="SA 20232" title="TASSEP	"/>
+<course number="SA 20250" title="University Of Canterbury	"/>
+<course number="SA 20261" title="Natl Univ Of Singapore	"/>
+<course number="SA 20264" title="U Carlos III Madrid	"/>
+<course number="SA 20266" title="Yonsei University	"/>
+<course number="SA 20272" title="Uppsala University	"/>
+<course number="SA 20273" title="KTH Sweden	"/>
+<course number="SA 20276" title="Swiss Federal Institute Tech	"/>
+<course number="SA 20280" title="National Chengchi University	"/>
+<course number="SA 20286" title="Bogazici University	"/>
+<course number="SA 20291" title="Lancaster University	"/>
+<course number="SA 20295" title="University College London	"/>
+<course number="SA 20296" title="University Of Bath	"/>
+<course number="SA 20303" title="University Of St Andrews	"/>
+<course number="SA 21203" title="U Of New England At Armidale	"/>
+<course number="SA 21205" title="University Of Wales Aberystwth	"/>
+<course number="SA 21215" title="U Of Ag Science Austria BOKU	"/>
+<course number="SA 30008" title="CIMBA	"/>
+<course number="SA 30012" title="Hansard Scholars Internship	"/>
+<course number="SA 30017" title="Semester At Sea	"/>
+<course number="SA 30022" title="Univ Of Minn Prog Montpellier	"/>
+<course number="SA 30026" title="Sponsored Hotel Internship	"/>
+<course number="SA 30031" title="London College Of Fashion	"/>
+<course number="SA 30042" title="Academic Year In Freiburg	"/>
+<course number="SA 31001" title="CIEE - Bahia	"/>
+<course number="SA 31004" title="CIEE-Shanghai: China	"/>
+<course number="SA 31007" title="CIEE-Prague	"/>
+<course number="SA 31026" title="CIEE-Brussels	"/>
+<course number="SA 31029" title="CIEE Istanbul	"/>
+<course number="SA 32003" title="DIS-Copenhagen:Intl Bus and Econ	"/>
+<course number="SA 32005" title="DIS-Copenhagen:Soc Sci Program	"/>
+<course number="SA 33004" title="IES-Auckland	"/>
+<course number="SA 33006" title="IES-Christchurch	"/>
+<course number="SA 33011" title="IES-London	"/>
+<course number="SA 33014" title="IES-Milan	"/>
+<course number="SA 33017" title="IES-Paris	"/>
+<course number="SA 34020" title="IFSA-UC Dublin	"/>
+<course number="SA 36002" title="Study Australia-James Cook U	"/>
+<course number="SA 36003" title="Study Australia-Monash Univ	"/>
+<course number="SA 36006" title="Study Australia-RMIT	"/>
+<course number="SA 36014" title="Study AUS U Queensland	"/>
+<course number="SA 80000" title="Vet Med Externships	"/>
+<course number="SCI	10000" title="Multicult Leadrshp Sem	"/>
+<course number="SCI	19100" title="P T CurrPract Training	"/>
+<course number="SCI	19500" title="Special Topics In Sci	"/>
+<course number="SCI	21000" title="Teaming Principles	"/>
+<course number="SCI	36000" title="Great Iss In Sci and Soc	"/>
+<course number="SCI	90900" title="Sci New Stdnt Session	"/>
+<course number="SLHS 11500" title="Intro Comm Disorders	"/>
+<course number="SLHS 22700" title="Elements Linguistics	"/>
+<course number="SLHS 30400" title="Anat Phys Speech Hear	"/>
+<course number="SLHS 30600" title="Intro To Phonetics	"/>
+<course number="SLHS 30900" title="Language Development	"/>
+<course number="SLHS 34500" title="Resrch Method Infancy	"/>
+<course number="SLHS 40100" title="Language and The Brain	"/>
+<course number="SLHS 42000" title="Intr Dev Spch Lang Dis	"/>
+<course number="SLHS 42200" title="Dev Spe Lng Dis Exp Ch	"/>
+<course number="SLHS 43000" title="Sp Lng Dis Hlth Set	"/>
+<course number="SLHS 45000" title="A R Across Lifespan	"/>
+<course number="SLHS 46000" title="Intro Assmnt Audiology	"/>
+<course number="SLHS 49000" title="Dir Study Spec Problem	"/>
+<course number="SLHS 49800" title="Undergrad Res Exper	"/>
+<course number="SLHS 50100" title="Neural Bases Sp and Hrng	"/>
+<course number="SLHS 50300" title="Auditory Perception	"/>
+<course number="SLHS 50900" title="Language Acquisition	"/>
+<course number="SLHS 51100" title="Seminar In Aging and Comm	"/>
+<course number="SLHS 51900" title="Spc Tpc Audio\Spch Pth"/>
+<course number="SLHS 52100" title="Phonet\Phonologic Dis"/>
+<course number="SLHS 52200" title="Lang Disord Excep Chil	"/>
+<course number="SLHS 52300" title="Lng Dis Chld:Bsic Prin	"/>
+<course number="SLHS 52500" title="Language Communication In ASD	"/>
+<course number="SLHS 53200" title="Voice Disorders	"/>
+<course number="SLHS 53700" title="Dev Mtr SpchandFd Disord	"/>
+<course number="SLHS 54900" title="Cl Prc Sp Lang Path I	"/>
+<course number="SLHS 55300" title="Cochlear Implants	"/>
+<course number="SLHS 56000" title="Bas Prcdrs Asmnt Audio	"/>
+<course number="SLHS 56300" title="Pediatric Aud Assess	"/>
+<course number="SLHS 56800" title="Tinnitus Asses and Rehab	"/>
+<course number="SLHS 57700" title="AEP II	"/>
+<course number="SLHS 57900" title="Clinical Practice Aud	"/>
+<course number="SLHS 58500" title="EPICS: AuD I	"/>
+<course number="SLHS 59000" title="Dir Study Spec Prob	"/>
+<course number="SLHS 61900" title="Ad Top Aud and Spch Path	"/>
+<course number="SLHS 64800" title="SLP Education Extern	"/>
+<course number="SLHS 64900" title="Slp Healthcare Extern	"/>
+<course number="SLHS 67900" title="Adv Cln Prac Audiology	"/>
+<course number="SLHS 69000" title="Dir Stdy Spec Problems	"/>
+<course number="SLHS 69800" title="Research MS Thesis	"/>
+<course number="SLHS 69900" title="Research PhD Thesis	"/>
+<course number="SOC	10000" title="Intro Sociology	"/>
+<course number="SOC	22000" title="Social Problems	"/>
+<course number="SOC	31000" title="Rac and Ethn Diversity	"/>
+<course number="SOC	32400" title="Criminology	"/>
+<course number="SOC	32700" title="Crime Deviance Media	"/>
+<course number="SOC	32800" title="Criminal Justice	"/>
+<course number="SOC	33900" title="Intro Soc Devlpg Natns	"/>
+<course number="SOC	34000" title="Gen Social Psychology	"/>
+<course number="SOC	35000" title="Soc Psych Of Marriage	"/>
+<course number="SOC	35600" title="Hate And Violence	"/>
+<course number="SOC	36700" title="Religion In America	"/>
+<course number="SOC	37400" title="Medical Sociology	"/>
+<course number="SOC	38200" title="Intro Statistics In Sociology	"/>
+<course number="SOC	38300" title="Intro Research Methods In Soc	"/>
+<course number="SOC	39000" title="Ind Research Sociology	"/>
+<course number="SOC	40200" title="Sociological Theory	"/>
+<course number="SOC	41900" title="Sociology Of Law	"/>
+<course number="SOC	42600" title="Soc Deviance and Control	"/>
+<course number="SOC	42900" title="Sociology Of Protest	"/>
+<course number="SOC	45000" title="Gender Roles Mod Soc	"/>
+<course number="SOC	49300" title="Interdis U\G Seminar"/>
+<course number="SOC	53100" title="Community Organization	"/>
+<course number="SOC	56700" title="Religion Soc Context	"/>
+<course number="SOC	57100" title="Health and Social Behav	"/>
+<course number="SOC	57200" title="Comparative Healthcare	"/>
+<course number="SOC	57300" title="Human Side Of Medicine	"/>
+<course number="SOC	58000" title="Meth Social Research I	"/>
+<course number="SOC	59000" title="Ind Research Problem	"/>
+<course number="SOC	59100" title="Selected Topics	"/>
+<course number="SOC	60000" title="Devel Sociolog Theory	"/>
+<course number="SOC	61100" title="Social Inequality"/>
+<course number="SOC	67700" title="Aging andThe Life Course	"/>
+<course number="SOC	68000" title="Adv Social Res Meth	"/>
+<course number="SOC	68600" title="Qualitative Methods	"/>
+<course number="SOC	69500" title="Anly Proj In Sociology	"/>
+<course number="SOC	69900" title="Research PhD Thesis	"/>
+<course number="SPAN 10100" title="Spanish Level I	"/>
+<course number="SPAN 10200" title="Spanish Level II	"/>
+<course number="SPAN 11200" title="Elem Span Conv I	"/>
+<course number="SPAN 20100" title="Spanish Level III	"/>
+<course number="SPAN 20200" title="Spanish Level IV	"/>
+<course number="SPAN 21100" title="Elem Span Conv II	"/>
+<course number="SPAN 21200" title="Elem Span Conv III	"/>
+<course number="SPAN 24100" title="Intro To Hispanic Lit	"/>
+<course number="SPAN 28000" title="Scdn-Yr Span-Sp Tpc	"/>
+<course number="SPAN 30100" title="Spanish Level V	"/>
+<course number="SPAN 30200" title="Spanish Level VI	"/>
+<course number="SPAN 30500" title="Span For Heritage Spkr	"/>
+<course number="SPAN 34100" title="Hispanic Lit I	"/>
+<course number="SPAN 34200" title="Hispanic Lit II	"/>
+<course number="SPAN 36100" title="Struc Spanish I	"/>
+<course number="SPAN 40100" title="Spanish Level VII	"/>
+<course number="SPAN 40200" title="Spanish Level VIII	"/>
+<course number="SPAN 41500" title="Spanish Trans and Interpretation	"/>
+<course number="SPAN 41900" title="Dir Tutoring In Span	"/>
+<course number="SPAN 42400" title="Business Spanish	"/>
+<course number="SPAN 48100" title="Spanish Culture	"/>
+<course number="SPAN 48200" title="Latin Amer Civiliztn	"/>
+<course number="SPAN 51900" title="Tchg College Spanish	"/>
+<course number="SPAN 54300" title="Span Lit 18th 19th Cen	"/>
+<course number="SPAN 55000" title="Spn\Am Lit Colonal Prd"/>
+<course number="SPAN 56300" title="History Spanish Lang	"/>
+<course number="SPAN 59000" title="Dir Reading In Span	"/>
+<course number="SPAN 59600" title="Spec Top Spanish Ling	"/>
+<course number="SPAN 63000" title="Bibliog Lit Criticism	"/>
+<course number="SPAN 65900" title="Sem Hispanic Lit	"/>
+<course number="SPAN 67900" title="Seminar Spanish Ling	"/>
+<course number="SPAN 69800" title="Research MA Thesis	"/>
+<course number="SPAN 69900" title="Research PhD Thesis	"/>
+<course number="STAT 11300" title="Statistics and Society	"/>
+<course number="STAT 17000" title="Intr Actuarial Science	"/>
+<course number="STAT 18300" title="Coop Work Experience I	"/>
+<course number="STAT 18400" title="Coop Work Experience II	"/>
+<course number="STAT 22500" title="Intro Probability Mdls	"/>
+<course number="STAT 25000" title="Problems In Prob	"/>
+<course number="STAT 28400" title="Coop Work Experience III	"/>
+<course number="STAT 30100" title="Elem Stat Meth	"/>
+<course number="STAT 35000" title="Intro To Statistics	"/>
+<course number="STAT 38600" title="Coop Work Experience IV	"/>
+<course number="STAT 41600" title="Probability	"/>
+<course number="STAT 41700" title="Statistical Theory	"/>
+<course number="STAT 42000" title="Intro Time Series	"/>
+<course number="STAT 47201" title="Actuarial Models-Life Conting	"/>
+<course number="STAT 48700" title="Coop Work Experience V	"/>
+<course number="STAT 49000" title="Tpcs In Stat For U\G"/>
+<course number="STAT 50100" title="Experimental Stat I"/>
+<course number="STAT 50300" title="Stat Methods Biology"/>
+<course number="STAT 50600" title="Stat Programming"/>
+<course number="STAT 51100" title="Statistical Methods"/>
+<course number="STAT 51200" title="Appl Regr Analysis"/>
+<course number="STAT 51300" title="Stat Quality Control"/>
+<course number="STAT 51400" title="Design Of Experiment"/>
+<course number="STAT 51500" title="Stat Consulting Prob"/>
+<course number="STAT 51600" title="Basic Probability Appl"/>
+<course number="STAT 51700" title="Statistical Inference"/>
+<course number="STAT 51900" title="Intro To Probability"/>
+<course number="STAT 52400" title="Appl Multiv Analysis	"/>
+<course number="STAT 52500" title="Generalized Linear Model	"/>
+<course number="STAT 52600" title="Adv Stat Methodology"/>
+<course number="STAT 52800" title="Intro Math Stat"/>
+<course number="STAT 53200" title="Elem Stochastic Proc	"/>
+<course number="STAT 53900" title="Probability Theory II"/>
+<course number="STAT 54100" title="Adv Prob and Opt Num Mth"/>
+<course number="STAT 54500" title="Intro Comp Statistics"/>
+<course number="STAT 54900" title="Intro QTL Mapping"/>
+<course number="STAT 58000" title="Appl Statistcal Theory"/>
+<course number="STAT 59700" title="Stat Consulting Semnar"/>
+<course number="STAT 59800" title="Topics In Stat Methods"/>
+<course number="STAT 63800" title="Stochastic Processes I"/>
+<course number="STAT 69100" title="Seminar Prob Theory"/>
+<course number="STAT 69200" title="Statistics Seminar"/>
+<course number="STAT 69500" title="Sem In Statistics"/>
+<course number="STAT 69800" title="Research MS Thesis"/>
+<course number="STAT 69900" title="Research PhD Thesis"/>
+<course number="TECH 10000" title="Tech Freshman Seminar"/>
+<course number="TECH 10100" title="Women Tech:Expl Possib"/>
+<course number="TECH 12000" title="Design Thinking In Technology"/>
+<course number="TECH 19900" title="Spec Topics In Tech"/>
+<course number="TECH 29199" title="Prof Practice Extensive I"/>
+<course number="TECH 29299" title="Prof Practice Extensive II"/>
+<course number="TECH 32000" title="Technology and The Organization"/>
+<course number="TECH 33000" title="Tech And The Global Society"/>
+<course number="TECH 38199" title="Prof Practice Co-Op I"/>
+<course number="TECH 38299" title="Prof Practice Co-Op II"/>
+<course number="TECH 38399" title="Prof Practice Co-Op III"/>
+<course number="TECH 39399" title="Prof Practice Extensive III"/>
+<course number="TECH 39499" title="Prof Practice Extensive IV"/>
+<course number="TECH 39599" title="Prof Practice Extensive V	"/>
+<course number="TECH 39699" title="Prof Practice Internship	"/>
+<course number="TECH 58100" title="Workshop In Technology	"/>
+<course number="TECH 60100" title="Rsrch Seminar In Tech	"/>
+<course number="TECH 62100" title="Seminar Ind Technology	"/>
+<course number="TECH 63700" title="Social Internet	"/>
+<course number="TECH 64600" title="Anlys Res Ind and Tech	"/>
+<course number="TECH 69000" title="Ind Study In Tech	"/>
+<course number="TECH 69500" title="Graduate Professional Practice	"/>
+<course number="TECH 69900" title="Research PhD Thesis	"/>
+<course number="TECH 90100" title="Tech Orientation	"/>
+<course number="THTR 13300" title="Survey Of Acting	"/>
+<course number="THTR 16000" title="Intro Scene Des\Tech "/>
+<course number="THTR 16100" title="Intro Costume Des\Tech"/>
+<course number="THTR 16200" title="Intro Light Des\Tech"/>
+<course number="THTR 16300" title="Intro Sound Des\Tech"/>
+<course number="THTR 16400" title="Intro Theatre Managemt	"/>
+<course number="THTR 20100" title="Theatre Appreciation	"/>
+<course number="THTR 25300" title="Survey Of Audio Production	"/>
+<course number="THTR 25600" title="Stage Make-Up	"/>
+<course number="THTR 29000" title="Special Topics In Thtr	"/>
+<course number="THTR 33300" title="Acting II: Scene Study	"/>
+<course number="THTR 33400" title="Acting III: Camera	"/>
+<course number="THTR 33600" title="Rehearsal and Perform II	"/>
+<course number="THTR 35300" title="Thtr Audio Tech I	"/>
+<course number="THTR 36200" title="Light Design	"/>
+<course number="THTR 36300" title="Sound Design	"/>
+<course number="THTR 36800" title="Theatre Production II	"/>
+<course number="THTR 38000" title="History Of Theatre I	"/>
+<course number="THTR 39000" title="Dr Sty Spc Thtr Prbm	"/>
+<course number="THTR 44000" title="Directing: Page To Stage	"/>
+<course number="THTR 45800" title="Prob Theatre Tech	"/>
+<course number="THTR 46800" title="Prob In Theatre Design	"/>
+<course number="THTR 51300" title="Vocal Production I	"/>
+<course number="THTR 53300" title="Acting Technique	"/>
+<course number="THTR 53500" title="Vocal\Physical Prep"/>
+<course number="THTR 53600" title="Adv Problems In Acting	"/>
+<course number="THTR 55800" title="Adv Prblms Theat Tec	"/>
+<course number="THTR 56800" title="Adv Prob In Thtr Des	"/>
+<course number="THTR 57001" title="Statics and Structure For Thtr I	"/>
+<course number="THTR 58000" title="Per Style For Designer	"/>
+<course number="THTR 59000" title="Dir Study Spec Prob	"/>
+<course number="THTR 59700" title="Prod and Design Seminar	"/>
+<course number="THTR 64000" title="Directing Internship	"/>
+<course number="THTR 65800" title="Spc Prblms Thtr Tec	"/>
+<course number="THTR 66900" title="Internship MFA	"/>
+<course number="THTR 69700" title="MFA-Terminal Project	"/>
+<course number="THTR 69800" title="MA Or MFA Thesis	"/>
+<course number="USP	90000" title="Orientation	"/>
+<course number="USP	90200" title="USP Block For GS	"/>
+<course number="VCS	14000" title="S A Nursing I-VTDL	"/>
+<course number="VCS	14100" title="S A Nursing II-VTDL	"/>
+<course number="VCS	14200" title="Diag Imaging VT I -DL	"/>
+<course number="VCS	14300" title="Diag Imaging VT II -DL	"/>
+<course number="VCS	14500" title="Anes For Vet Tch I -DL	"/>
+<course number="VCS	14600" title="Anes For Vet Tch II-DL	"/>
+<course number="VCS	14700" title="Prin Of Tech Steril-DL	"/>
+<course number="VCS	14800" title="L A Nurs Mgmt I -DL	"/>
+<course number="VCS	14900" title="L A Nurs Mgmt II -DL	"/>
+<course number="VCS	20100" title="Pharm Pro For VT -DL	"/>
+<course number="VCS	22100" title="Vet Nursing Techniques-SA\LA	"/>
+<course number="VCS	22200" title="Dentistry For The Vet Tech	"/>
+<course number="VCS	22300" title="Surg Nursing And OR Protocols	"/>
+<course number="VCS	23000" title="S A Nursing III-VTDL	"/>
+<course number="VCS	23100" title="S A Nursing IV-VTDL	"/>
+<course number="VCS	23300" title="Int Ophtho Drm Onco-DL	"/>
+<course number="VCS	23700" title="L A Nurs Mgmt III -DL	"/>
+<course number="VCS	23800" title="L A Nurs Mgmt IV -DL	"/>
+<course number="VCS	25100" title="Intro To DI For The Vet Tech	"/>
+<course number="VCS	32100" title="LA Nursing II	"/>
+<course number="VCS	32200" title="SA Nursing II	"/>
+<course number="VCS	46700" title="Diagn Instrumentation	"/>
+<course number="VCS	60200" title="Prob In Clin Med\Surg	"/>
+<course number="VCS	60300" title="Intro Clin Trials Trans Res	"/>
+<course number="VCS	61000" title="Clinical Training	"/>
+<course number="VCS	61100" title="Adv Diagnostic Imaging	"/>
+<course number="VCS	62000" title="Sem Clin Med\Surg	"/>
+<course number="VCS	62100" title="Topics Adv Medicine	"/>
+<course number="VCS	63000" title="Cur Topic Vet Clin Sci	"/>
+<course number="VCS	64000" title="Intro Vet Home Sec	"/>
+<course number="VCS	64100" title="HCD Mult Species	"/>
+<course number="VCS	64200" title="HCD Bovine	"/>
+<course number="VCS	64300" title="HCD Equine	"/>
+<course number="VCS	64400" title="HCD Swine	"/>
+<course number="VCS	64500" title="HCD Minor Species"/>
+<course number="VCS	64600" title="HCD Avian	"/>
+<course number="VCS	64700" title="HCD Zoonotic"/>
+<course number="VCS	64800" title="Defining The Threat	"/>
+<course number="VCS	64900" title="Understand Response	"/>
+<course number="VCS	65100" title="Biosecurity	"/>
+<course number="VCS	65200" title="Euthanasia and Carcass Disposal	"/>
+<course number="VCS	65300" title="Community	"/>
+<course number="VCS	65400" title="Food Borne Illnesses"/>
+<course number="VCS	65500" title="GIS Applications	"/>
+<course number="VCS	65600" title="Managing An Emergency"/>
+<course number="VCS	65700" title="Crime Scenes	"/>
+<course number="VCS	65800" title="Radiation	"/>
+<course number="VCS	65900" title="Bus Continuity Mgmt	"/>
+<course number="VCS	69800" title="Research MS Thesis	"/>
+<course number="VCS	80100" title="Behav Husb Diag Tec I	"/>
+<course number="VCS	80400" title="Behav In Domestic Anim	"/>
+<course number="VCS	80600" title="Sm Anim Med and Surg I	"/>
+<course number="VCS	80616" title="Small Animal Clinical Nutr	"/>
+<course number="VCS	80800" title="Equine Med and Surg	"/>
+<course number="VCS	80900" title="Ruminant Med and Surg	"/>
+<course number="VCS	81000" title="Swine Production Med	"/>
+<course number="VCS	81100" title="General Surgery Lab	"/>
+<course number="VCS	81200" title="Prin Anes Surg Em Med	"/>
+<course number="VCS	81300" title="Diagnostic Imaging	"/>
+<course number="VCS	81400" title="Compar Theriogenology	"/>
+<course number="VCS	81500" title="Ophthalmology	"/>
+<course number="VCS	82900" title="Equine Imaging	"/>
+<course number="VCS	84500" title="Sm Anim Medicine Lab	"/>
+<course number="VM 10201" title="Careers In Veterinary Med-DL	"/>
+<course number="VM 10500" title="Intro Vet Tech VT-DL	"/>
+<course number="VM 14000" title="Intro To Veterinary Technology	"/>
+<course number="VM 20500" title="Sm An Nrs Cln Mnt I-DL	"/>
+<course number="VM 20600" title="SA Nurs Cln Ment II-DL	"/>
+<course number="VM 20700" title="SA Nurs Cln Mnt III-DL	"/>
+<course number="VM 20800" title="LA Med Nurs Cln Mnt-DL	"/>
+<course number="VM 20900" title="Eq Med Nurs Cln Mnt-DL	"/>
+<course number="VM 21000" title="SA Anes Clin Ment-DL	"/>
+<course number="VM 21100" title="FA Eq Anes Clin Mnt-DL	"/>
+<course number="VM 21200" title="OR Tch Ster Cln Mnt-DL	"/>
+<course number="VM 21500" title="SA Diag Imag I Cln -DL	"/>
+<course number="VM 21600" title="SA Diag Imag II Cln-DL	"/>
+<course number="VM 21700" title="FA Eq Diag Img Clin-DL	"/>
+<course number="VM 22000" title="Lab An Hlth I -DL	"/>
+<course number="VM 22100" title="Lab An Hlth II -DL	"/>
+<course number="VM 22200" title="Parasit Mic Cln Mn-DL	"/>
+<course number="VM 22300" title="Phar Clin Mentorshp-DL	"/>
+<course number="VM 22400" title="Necropsy Clin Ment-DL	"/>
+<course number="VM 22500" title="Adv Clin Ment - DL	"/>
+<course number="VM 22600" title="Lab An Clin Ment-DL	"/>
+<course number="VM 22700" title="Clin Path Clin Ment-DL	"/>
+<course number="VM 24100" title="Safety, Prev and Public Health	"/>
+<course number="VM 24300" title="Clinic Rotations I	"/>
+<course number="VM 24500" title="Mgmt Topics VT I -DL	"/>
+<course number="VM 24600" title="Mgmt Topics VT II-DL	"/>
+<course number="VM 24800" title="Understnd Animal Dz-DL	"/>
+<course number="VM 25100" title="Medical Math and Terminology	"/>
+<course number="VM 32300" title="Lab Ani and Nurs Of Non-Trad Pet	"/>
+<course number="VM 34300" title="Clinic Rotations IV	"/>
+<course number="VM 36700" title="Fnd Instr Alld Hlth	"/>
+<course number="VM 44100" title="Occ and Public Health For VT	"/>
+<course number="VM 44200" title="Management II	"/>
+<course number="VM 44300" title="Clinic Rotations VI	"/>
+<course number="VM 45000" title="Animal Emerg-Disaster Mgmt	"/>
+<course number="VM 45100" title="Cont Topics In Life Skills	"/>
+<course number="VM 45200" title="Managing HR In Vet Med	"/>
+<course number="VM 45300" title="The Role Of Clin Res Tech	"/>
+<course number="VM 45400" title="Rehab and Physiotherapy	"/>
+<course number="VM 45500" title="Equine Behavior	"/>
+<course number="VM 46300" title="Special Project	"/>
+<course number="VM 49000" title="Tpcs Veterinary Med	"/>
+<course number="VM 81000" title="Veterinary Externship	"/>
+<course number="VM 82000" title="Applica and Integra I	"/>
+<course number="VM 82500" title="Grand Rounds	"/>
+<course number="VM 84000" title="Applica and Integra III	"/>
+<course number="VM 87000" title="Hist Of VM Ag-Ren Seminar	"/>
+<course number="VM 89000" title="Topics In Vet Med	"/>
+<course number="VM 89100" title="Spec Tpcs Vet Med	"/>
+<course number="VM 89200" title="Prn Prof, Juris and Ethc	"/>
+<course number="VM 89400" title="Inter VM Dir Clinic Exp	"/>
+<course number="VM 89500" title="Clinical Applications	"/>
+<course number="WOST 28000" title="Women's Studies: An Introductn	"/>
+<course number="WOST 28100" title="Topics In Gender Studies	"/>
+<course number="WOST 28200" title="Intro To LGBT Studies	"/>
+<course number="WOST 38000" title="Gender and Multiculturalism	"/>
+<course number="WOST 38300" title="Women And Work	"/>
+<course number="WOST 48000" title="Feminist Theory	"/>
+<course number="WOST 49200" title="Practicum In Women's Studies	"/>
+<course number="WOST 68000" title="Feminist Theory "/>
+<course number="WOST 68100" title="Cont Issues Fem Schol	"/>
+<course number="YDAE 15200" title="Agri Communication Sem	"/>
+<course number="YDAE 24000" title="Sem Agricultural Educ	"/>
+<course number="YDAE 29000" title="Spec Prob Youth Dev and Agr Educ	"/>
+<course number="YDAE 31800" title="Coord Spvd Agr Exp Pro	"/>
+<course number="YDAE 44000" title="Mthd Tch Agricultrl Ed	"/>
+<course number="YDAE 44100" title="Fld Exp Agri Educ Prog	"/>
+<course number="YDAE 46000" title="Agriculturl Publishing	"/>
+<course number="YDAE 48000" title="Agr Com Capstone Sem	"/>
+<course number="YDAE 49000" title="Special Problems	"/>
+<course number="YDAE 49100" title="Special Topics	"/>
+<course number="YDAE 49700" title="Thesis Research	"/>
+<course number="YDAE 59000" title="Special Problems	"/>
+<course number="YDAE 59100" title="Special Topics	"/>
+<course number="YDAE 59500" title="Internship In Ag Ed	"/>
+<course number="YDAE 64400" title="YDAE Graduate Seminar	"/>
+<course number="YDAE 69800" title="Research MS Thesis	"/>
+<course number="YDAE 69900" title="Research PhD Thesis	"/>
+</courses>
