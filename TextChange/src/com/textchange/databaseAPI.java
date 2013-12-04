@@ -14,7 +14,7 @@ public class databaseAPI
 {
   
   public static int PORT=8080;
-  public static String HOST="sac13.cs.purdue.edu";
+  public static String HOST="sac12.cs.purdue.edu";
   
   public static JSONObject getDepartments()
   {
