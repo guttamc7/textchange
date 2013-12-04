@@ -42,8 +42,9 @@ public class databaseAPI
             s.append(line);
             line = in.readLine();
             }
-            System.out.println(s);
-            data=new JSONObject(s.toString());
+            String content=s.substring(s.indexOf("{",0),s.length());
+            data=new JSONObject(content);
+          //  System.out.println(data);
             in.close();
             out.close();
             requestSocket.close();
@@ -94,7 +95,9 @@ public class databaseAPI
             line = in.readLine();
             }
            
-            data=new JSONObject(s.toString());
+            String content=s.substring(s.indexOf("{",0),s.length());
+            data=new JSONObject(content);
+           // System.out.println(data);
             in.close();
             out.close();
             requestSocket.close();      
@@ -140,7 +143,9 @@ public class databaseAPI
                s.append(line);
                line = in.readLine();
             }
-               data=new JSONObject(s.toString());
+               String content=s.substring(s.indexOf("{",0),s.length());
+               data=new JSONObject(content);
+               //System.out.println(data);
                in.close();
                out.close();
                requestSocket.close();
@@ -186,7 +191,8 @@ public class databaseAPI
                s.append(line);
                line = in.readLine();
             }
-               data=new JSONObject(s.toString());
+              String content=s.substring(s.indexOf("{",0),s.length());
+              data=new JSONObject(content);
                in.close();
                out.close();
                requestSocket.close();
@@ -233,8 +239,8 @@ public class databaseAPI
                s.append(line);
                line = in.readLine();
             }
-             //System.out.println(s);
-               data=new JSONObject(s.toString());
+               String content=s.substring(s.indexOf("{",0),s.length());
+               data=new JSONObject(content);
                in.close();
                out.close();
                requestSocket.close();
@@ -281,8 +287,8 @@ public class databaseAPI
                s.append(line);
                line = in.readLine();
             }
-             //System.out.println(s);
-              data=new JSONObject(s.toString());
+              String content=s.substring(s.indexOf("{",0),s.length());
+              data=new JSONObject(content);
               in.close();
               out.close();
               requestSocket.close();
@@ -332,8 +338,8 @@ public class databaseAPI
                s.append(line);
                line = in.readLine();
             }
-             //System.out.println(s);
-             data=new JSONObject(s.toString());
+             String content=s.substring(s.indexOf("{",0),s.length());
+             data=new JSONObject(content);
              in.close();
              out.close();
              requestSocket.close();
@@ -381,8 +387,8 @@ public class databaseAPI
                line = in.readLine();
             }
              
-           //  System.out.println(s);
-             data=new JSONObject(s.toString());
+            String content=s.substring(s.indexOf("{",0),s.length());
+            data=new JSONObject(content);
           
              in.close();
              out.close();
@@ -434,8 +440,9 @@ public class databaseAPI
                s.append(line);
                line = in.readLine();
             }
-           System.out.println(s);
-             data=new JSONObject(s.toString());
+             String content=s.substring(s.indexOf("{",0),s.length());
+             data=new JSONObject(content);
+        //     System.out.println(data);
              in.close();
              out.close();
              requestSocket.close();
@@ -483,8 +490,8 @@ public class databaseAPI
                s.append(line);
                line = in.readLine();
             }
-          //   System.out.println(s);
-             data=new JSONObject(s.toString());
+             String content=s.substring(s.indexOf("{",0),s.length());
+             data=new JSONObject(content);
              in.close();
              out.close();
              requestSocket.close();
@@ -532,8 +539,8 @@ public class databaseAPI
                s.append(line);
                line = in.readLine();
             }
-           //  System.out.println(s);
-             data=new JSONObject(s.toString());
+             String content=s.substring(s.indexOf("{",0),s.length());
+             data=new JSONObject(content);
              in.close();
              out.close();
              requestSocket.close();
@@ -553,11 +560,7 @@ public class databaseAPI
             return data;
        }
    
-       public static void main(String args[])
-       {
-         postTextBook("agrawal8@purdue.edu","My Awesome book"  , "Purdue" , "1223323" ,  "85" , "AAE 19000");
-         
-       }
+      
            
       
      }
