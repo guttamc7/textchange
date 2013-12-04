@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/PaleGoldenrod"
+    android:orientation="vertical" >
+<RelativeLayout
+    android:id="@+id/relativeLayout5"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+     <Button
+         android:id="@+id/search_success"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_alignParentRight="true"
+         android:layout_alignParentTop="true"
+         android:layout_marginRight="20dp"
+         android:background="@color/PaleGoldenrod"
+         android:text="@string/search" 
+         android:textStyle="bold"
+         android:textColor="@color/SteelBlue"/>
+</RelativeLayout>     
+    <TextView
+        android:id="@+id/narrow_search"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif"
+        android:padding="10dp"
+        android:text="@string/narrow_search"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    <TextView
+        android:id="@+id/narrow_search_msg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif_light"
+        android:padding="10dp"
+        android:text="@string/narrow_search_msg"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+    
+    <EditText android:id="@+id/book_title"
+        android:layout_width="270dp"
+        android:layout_height="25dip"
+        android:layout_marginTop="20dip"
+        android:layout_marginLeft="20dip"
+        android:gravity="center"
+        android:layout_marginBottom="10dip"
+        android:singleLine="true" 
+        android:background="@drawable/textlines"
+        android:hint="@string/edit_book_title" />
+    
+    <EditText android:id="@+id/book_author"
+        android:layout_width="270dp"
+        android:layout_height="25dip"
+        android:layout_marginTop="20dip"
+        android:layout_marginLeft="20dip"
+        android:gravity="center"
+        android:layout_marginBottom="10dip"
+        android:singleLine="true" 
+        android:background="@drawable/textlines"
+        android:hint="@string/edit_book_author" />
+   
+     <EditText android:id="@+id/book_isbn"
+        android:layout_width="270dp"
+        android:layout_height="25dip"
+        android:layout_marginTop="20dip"
+        android:layout_marginLeft="20dip"
+        android:gravity="center"
+        android:singleLine="true" 
+        android:background="@drawable/textlines"
+        android:hint="@string/edit_book_isbn" />
+     
+     <TextView
+        android:id="@+id/select_dept_course"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif_light"
+        android:padding="20dp"
+        android:text="@string/select_dept_msg"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+ <LinearLayout
+        android:id="@+id/relativeLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+     <Button
+         android:id="@+id/dept_button"
+         android:layout_width="175dp"
+         android:background="@color/PaleGoldenrod"
+         android:layout_height="wrap_content"
+         android:layout_marginTop="1dip" 
+         android:layout_marginLeft="20dip"
+         android:hint="@string/dept_msg" />
+     
+     <ImageButton
+      android:id="@+id/imageNextDepartment"
+      android:layout_width="25dip"
+      android:layout_height="fill_parent"
+      android:layout_marginTop="1dip"
+      android:layout_marginRight="-10dip"
+      android:background="@drawable/ic_next_item"/>
+     
+ </LinearLayout>
+   
+<LinearLayout
+    android:id="@+id/relativeLayout2"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+    <Button
+        android:id="@+id/course_button"
+        android:layout_width="175dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dip"
+        android:layout_marginTop="10dip"
+        android:background="@color/PaleGoldenrod"
+        android:hint="@string/course_msg" />
+
+    <ImageButton
+        android:id="@+id/imageNextCourse"
+        android:layout_width="25dip"
+        android:layout_height="fill_parent"
+        android:layout_marginRight="-10dip"
+        android:layout_marginTop="10dip"
+        android:background="@drawable/ic_next_item"
+         />
+</LinearLayout>
+		
+</LinearLayout>

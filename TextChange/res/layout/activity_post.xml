@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@color/PaleGoldenrod" >
+ <RelativeLayout
+    android:id="@+id/relativeLayout4"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+     <Button
+         android:id="@+id/post_success"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_alignParentRight="true"
+         android:layout_alignParentTop="true"
+         android:layout_marginRight="20dp"
+         android:background="@color/PaleGoldenrod"
+         android:text="@string/postad" 
+         android:textStyle="bold"
+         android:textColor="@color/SteelBlue"/>
+
+     </RelativeLayout>
+    <TextView
+        android:id="@+id/post_adtitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif"
+        android:padding="10dp"
+        android:text="@string/post_ad_title"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/postad_msg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif_light"
+        android:padding="10dp"
+        android:text="@string/postad_msg"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <EditText
+        android:id="@+id/book_title"
+        android:layout_width="270dp"
+        android:layout_height="25dip"
+        android:layout_marginLeft="20dip"
+        android:layout_marginTop="20dip"
+        android:ems="10"
+        android:gravity="center"
+        android:background="@drawable/textlines"
+        android:singleLine="true" 
+        android:hint="@string/edit_book_title" />
+    
+    <EditText android:id="@+id/book_author"
+        android:layout_width="270dp"
+        android:layout_height="25dip"
+        android:layout_marginLeft="20dip"
+        android:gravity="center"
+        android:singleLine="true" 
+        android:background="@drawable/textlines"
+        android:layout_marginTop="20dip"
+        android:hint="@string/edit_book_author" />
+   
+     <EditText android:id="@+id/book_isbn"
+        android:layout_width="270dp"
+        android:layout_height="25dip"
+        android:layout_marginTop="20dip"
+        android:layout_marginLeft="20dip"
+        android:gravity="center"
+        android:singleLine="true" 
+        android:background="@drawable/textlines"
+        android:hint="@string/edit_book_isbn" />
+     
+<LinearLayout
+        android:id="@+id/relativeLayout3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+     <EditText
+         android:id="@+id/book_edition"
+         android:layout_width="130dp"
+         android:layout_height="25dip"
+         android:layout_marginLeft="20dip"
+         android:layout_marginRight="15dip"
+         android:layout_marginTop="20dip"
+         android:gravity="center"
+         android:singleLine="true" 
+         android:background="@drawable/textlines"
+         android:hint="@string/edit_book_edition" />
+     <EditText
+      android:id="@+id/book_price"
+      android:layout_width="125dp"
+      android:layout_height="25dip"
+      android:layout_marginTop="20dip"
+      android:gravity="center"
+      android:singleLine="true" 
+      android:background="@drawable/textlines"
+      android:layout_marginRight="-5dip"
+      android:hint="@string/edit_price"/>
+     
+</LinearLayout>
+        
+     
+<LinearLayout
+        android:id="@+id/relativeLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+     <Button
+         android:id="@+id/dept_button"
+         android:layout_width="175dp"
+          android:layout_marginTop="20dip"
+         android:background="@color/PaleGoldenrod"
+         android:layout_height="wrap_content"
+         android:layout_marginLeft="20dip"
+         android:hint="@string/dept_msg" />
+     
+     <ImageButton
+      android:id="@+id/imageNextDepartment"
+      android:layout_width="25dip"
+       android:layout_marginTop="20dip"
+      android:layout_height="fill_parent"
+      android:layout_marginRight="-10dip"
+      android:background="@drawable/ic_next_item"/>
+     
+ </LinearLayout>
+   
+<LinearLayout
+        android:id="@+id/relativeLayout2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+     
+      <Button
+         android:id="@+id/course_button"
+         android:layout_width="175dp"
+         android:layout_marginLeft="20dip"
+         android:layout_marginTop="15dip"
+         android:layout_height="wrap_content"
+         android:background="@color/PaleGoldenrod"
+         android:hint="@string/course_msg" />
+     
+      <ImageButton
+          android:id="@+id/imageNextCourse"
+          android:layout_width="25dip"
+          android:layout_height="fill_parent"
+          android:layout_marginRight="-10dip"
+          android:layout_marginTop="15dip"
+          android:background="@drawable/ic_next_item" />
+
+ </LinearLayout>
+    
+
+</LinearLayout>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@color/PaleGoldenrod" >
+    
+    <TextView
+        android:id="@+id/post_adtitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif"
+        android:padding="10dp"
+        android:text="@string/login_title"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/login_msg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif_light"
+        android:padding="10dp"
+        android:text="@string/login_msg"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <EditText
+        android:id="@+id/login_email"
+        android:layout_width="270dp"
+        android:layout_height="30dip"
+        android:layout_marginLeft="20dip"
+        android:layout_marginTop="20dip"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        android:gravity="center"
+        android:background="@drawable/textlines"
+        android:singleLine="true" 
+        android:hint="@string/login_email" />
+    
+    <EditText android:id="@+id/login_pass"
+        android:layout_width="270dp"
+        android:gravity="center"
+        android:background="@drawable/textlines"
+        android:singleLine="true" 
+        android:inputType="textPassword"
+        android:layout_height="30dip"
+        android:layout_marginLeft="20dip"
+        android:layout_marginTop="20dip"
+        android:hint="@string/login_pass" />
+
+		
+	<LinearLayout 
+    	android:layout_width="match_parent"
+    	android:layout_weight="1"
+    	android:layout_height="0dip"
+    	android:gravity="center"
+    	android:orientation="vertical" >    
+		
+     <Button
+        android:id="@+id/login_login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="1dip"
+        android:background="@color/PaleGoldenrod"
+        android:text="@string/login_login"
+        android:textColor="@color/SteelBlue"
+        android:textSize="18sp"
+        android:drawableBottom="@drawable/ic_signin"
+        android:textStyle="bold" />
+	</LinearLayout>  
+
+</LinearLayout>
